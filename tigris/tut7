@@ -1,0 +1,56 @@
+ the end result of previous tut was two functions
+ he makes a utility.js file
+ the functions are:
+ 
+ 1) i2xy, which takes an index (and maybe also the mapWith)
+ and calculates the x,y position 
+ on the map (returns x,y) 
+ 
+ 2) xy2i (the reversal) (takes x,y and mapWith)
+ (returns y * mapWidth because that's the number of rows we
+ are gonna get, then just add x)
+ -it gets us what we need 
+ (gets the index from x,y coordinates)
+ 
+ 
+ 5:50 explains what it means for a fn to return an arr.. yawn
+ !!!
+ 6:26 suddenly changes gears!
+ !!!
+ SPRITESHEETS!!!
+ a ss is a single png picture containing multiple frames or a sprite,
+ or simply different objects for our game
+ each sprite could be 16*16
+ but in the case i will show you,
+ it is actually 32*32
+7:00 shows the dog spritesheet
+it is 8x8 squares (each square is 32x32)
+7:50
+we need to understand that each frame has a 
+correlating index associated with it
+and since this is an animation spritesheet
+we also need a way to determine the animation sequence
+in terms of these index values
+for example: dog runs right ? sequence is 1,2,3,4 and then it will jump back to 1 and repeat
+want dog run south? just use 17,18,19,20
+//
+ 8:55 before we move forward lets analyze this
+ -our dog-run-right animation will contain four frames
+ -we will have 3 vars
+ 1)frame_index(can be 1,2,3,4 (happens not to use zero)) 
+ 2)seq (an array of the four frames)
+ 3)current_frame (result of frame_index applied to seq)
+11:15 looks at dog running down
+ 12:07 remember our engine is running at an interval..
+ 13:25 sometimes we need an animation delay to prevent the keyboard controls
+ from being analyzed each tick
+ 
+ these vars are for mating our animation function
+ spriteSheetIndex  - seq itself
+ animationIndexCounter -basically the frame index 
+ animationCurrentFrame -resulting frame of that sprite that is being animated in the current frame of our game
+ animationDelay -slows down too-fast anims
+  
+ 1330 "we can use an animation delay"
+ 
+ 1425.. moves utility.js yawn

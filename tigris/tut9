@@ -1,0 +1,33 @@
+overview
+we have already started an engine for rpg games
+lets improve our sprite rendering engine
+overview
+1)resolve frame counter conflict between animated Spite objs
+(seen in previous tut)
+2)precreation of 320000 anim counters
+a)resetting global anim counter on every frame
+b)increasing global anim counter on Spite draw method
+3)Creation of new Anim js obj
+4) addition of new animation.js
+5)addition of new spritesheet.js 
+6) but its mostly about impvoements of sprite.js drawing functions
+(containing the main sprite obj)
+7)reuse spritesheets without having to reload them more than once
+2:30 main theme is drawing/anim sprites with our engine
+-using global animation counters we will avoid anim collisions (seen prev)
+-new Spritesheet obj located in new spritesheet.js
+-reusing Spite obj dog iwth CHACHED sprite sheet image
+3:30 originally we had a sprite obj in our engine
+it contains an image
+that is the image usually displayed on on canvas
+new sprite sheet object! we will attach it to our sprite oubject.
+this ss object will also contain an img
+so now
+the sprite obj can chose which img to use
+our orig sprite object had draw method for use on img that is 
+originally attached to sprite obj
+but now
+draw fn will AUTOMATICALLY (once we program it)
+ chose the img that is available
+in other words, if our sprite object was created with a spritesheet, then it will
+use the image from the spritesheet, etc

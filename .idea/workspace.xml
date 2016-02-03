@@ -1,0 +1,1715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f72ef801-3366-46cf-8e97-bf7a94259c5f" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/$vs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/agenda" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/10683684_306048046259337_7910439418733915172_o.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/arrow.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/back_arrow.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/britney 2.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/britney.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/brush 2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/brush.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/deep.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/deeper.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/deeper.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/deeper2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/down.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/earth 2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/earth.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/flag.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/gaga.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/garbage.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/inga.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/me.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/1W9MSEYA4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/29FF783GE.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/34EO3MNBA.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/429ZPH4GB.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/48K6T5RBZ.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/59GWR17KR.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/5E12C89ZC.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/5O9RCC9MQ.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/69ESTK5HL.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/6BFPBKESW.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/7ZT7PT18T.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/8LZRDXLAC.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/8NDQTGTLR.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/A6SXR6NEH.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/BH95B3RKX.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/BONQ5BH6Z.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/BQSDGQYQA.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/CM5XLSQRT.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/D3BKDRBMH.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/DAHEDANF6.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/DWWPR2CQE.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/ED334QLZ5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/EMNKY1FHT.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/HQ6678SSQ.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/KGCDTEW1C.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/L797E9SKE.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/LH3T8586E.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/MNPBYNG9F.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/N2NO3DZQS.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/NFEDHBFHZ.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/NLXDTGZWQ.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/NOOLH9K38.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/PQ65XCKP1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/SQMQ1A4Y3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/SY3NPZQ3Y.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/T663FQLKN.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/XL6QWMYF2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/YM7RSX23C.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/YSOKO6SBL.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/Z7G34XEXX.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/ZF9HKG42H.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/ZRCCS5SGN.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/pics/pictures_preview.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/published/_publish_Untitled-3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/published/_publish_Untitled-3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/published/flash.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/published/flash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/published/images/britney.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/published/images/gaga.jpeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/red.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/reload.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/save.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/search.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/thumbdown.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/thumbdowngray.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/thumbgray.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/thumbs/thumb.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/thumbs/thumbdown.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/thumbs/thumbdowngray.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/thumbs/thumbgray.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/thumbs/thumbgray.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/thumbs/thumbgraydown.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/up.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/art/yix.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/canvasquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/da.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/geeDfs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/jointsLearn" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/oDef.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/shapeDefaults.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_data/shapeObArrays.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_/borderRadius.js" afterPath="$PROJECT_DIR$/web/borderRadius.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_/cx_isPointInPath.js" afterPath="$PROJECT_DIR$/canvas/cx_isPointInPath.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/_/spacing.js" afterPath="$PROJECT_DIR$/web/spacing.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bmap.js" afterPath="$PROJECT_DIR$/canvas/bmap.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/canApps.js" afterPath="$PROJECT_DIR$/canvas/canApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/canvas.js" afterPath="$PROJECT_DIR$/canvas/canvas.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/colorGrad.js" afterPath="$PROJECT_DIR$/web/colorGrad.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/$$$makeworld$$$.js" afterPath="$PROJECT_DIR$/fiz/$$$makeworld$$$.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/_box" afterPath="$PROJECT_DIR$/fiz/_fiz/_box" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/_collide" afterPath="$PROJECT_DIR$/fiz/_fiz/_collide" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/_fiz" afterPath="$PROJECT_DIR$/fiz/_fiz/_fiz" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/_klass" afterPath="$PROJECT_DIR$/fiz/_fiz/_klass" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/_query" afterPath="$PROJECT_DIR$/fiz/_fiz/_query" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/abstractKlas.js" afterPath="$PROJECT_DIR$/fiz/_fiz/abstractKlas.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/arraySensor.js" afterPath="$PROJECT_DIR$/fiz/_fiz/arraySensor.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/bindBody_actorClass.js" afterPath="$PROJECT_DIR$/fiz/_fiz/bindBody_actorClass.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/box" afterPath="$PROJECT_DIR$/fiz/_fiz/box" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/data" afterPath="$PROJECT_DIR$/fiz/_fiz/data" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/fizApps/apps.js" afterPath="$PROJECT_DIR$/fiz/_fiz/fizApps/fizApps/apps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/fizApps/both.js" afterPath="$PROJECT_DIR$/fiz/_fiz/fizApps/fizApps/both.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/fizApps/contactPointApps.js" afterPath="$PROJECT_DIR$/fiz/_fiz/fizApps/fizApps/contactPointApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/fizApps/filteringApps.js" afterPath="$PROJECT_DIR$/fiz/_fiz/fizApps/fizApps/filteringApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/fizApps/fixtureClipperArea.js" afterPath="$PROJECT_DIR$/fiz/_fiz/fizApps/fizApps/fixtureClipperArea.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/fizApps/fizApps/apps.js" afterPath="$PROJECT_DIR$/fiz/_fiz/fizApps/apps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/fizApps/fizApps/both.js" afterPath="$PROJECT_DIR$/fiz/_fiz/fizApps/both.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/fizApps/fizApps/contactPointApps.js" afterPath="$PROJECT_DIR$/fiz/_fiz/fizApps/contactPointApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/fizApps/fizApps/filteringApps.js" afterPath="$PROJECT_DIR$/fiz/_fiz/fizApps/filteringApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/fizApps/fizApps/fixtureClipperArea.js" afterPath="$PROJECT_DIR$/fiz/_fiz/fizApps/fixtureClipperArea.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/fizApps/fizApps/flagApps.js" afterPath="$PROJECT_DIR$/fiz/_fiz/fizApps/flagApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/fizApps/fizApps/moreKlas.js" afterPath="$PROJECT_DIR$/fiz/_fiz/fizApps/fizApps/moreKlas.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/fizApps/flagApps.js" afterPath="$PROJECT_DIR$/fiz/_fiz/fizApps/fizApps/flagApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/fizApps/jtsApps.js" afterPath="$PROJECT_DIR$/fiz/_fiz/fizApps/jtsApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/fizApps/perfectCamera.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/perfectCamera.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/fizApps/sepApps/appsThatUseConc.js" afterPath="$PROJECT_DIR$/fiz/_fiz/sepApps/appsThatUseConc.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/fizApps/sepApps/sepApps.js" afterPath="$PROJECT_DIR$/fiz/_fiz/sepApps/sepApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/fizApps/sepApps/sepAppsMore.js" afterPath="$PROJECT_DIR$/fiz/_fiz/sepApps/sepAppsMore.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/fizApps/spazApps/artApps.js" afterPath="$PROJECT_DIR$/fiz/_fiz/spazApps/artApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/fizApps/spazApps/spazSpriteApps.js" afterPath="$PROJECT_DIR$/fiz/_fiz/spazApps/spazSpriteApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/fizApps/spazApps/stageApps.js" afterPath="$PROJECT_DIR$/fiz/_fiz/spazApps/stageApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/old.js" afterPath="$PROJECT_DIR$/fiz/_fiz/old.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/sepApps/appsThatUseConc.js" afterPath="$PROJECT_DIR$/fiz/_fiz/fizApps/sepApps/appsThatUseConc.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/sepApps/sepApps.js" afterPath="$PROJECT_DIR$/fiz/_fiz/fizApps/sepApps/sepApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/sepApps/sepAppsMore.js" afterPath="$PROJECT_DIR$/fiz/_fiz/fizApps/sepApps/sepAppsMore.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/spazApps/artApps.js" afterPath="$PROJECT_DIR$/fiz/_fiz/fizApps/spazApps/artApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/spazApps/spazSpriteApps.js" afterPath="$PROJECT_DIR$/fiz/_fiz/fizApps/spazApps/spazSpriteApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/spazApps/stageApps.js" afterPath="$PROJECT_DIR$/fiz/_fiz/fizApps/spazApps/stageApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/_fiz/vel" afterPath="$PROJECT_DIR$/fiz/_fiz/vel" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/$player.js" afterPath="$PROJECT_DIR$/fiz/arcade/$player.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/bodyDirection.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/bodyDirection.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/gameEngine.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/gameEngine.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/boxWeb.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/boxWeb.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/catapult.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/catapult.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/coinWarp/coinwarp.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/coinWarp/coinwarp.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/coinWarp/conWarp.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/coinWarp/conWarp.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/coinWarp/conWarp_.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/coinWarp/conWarp_.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/iso.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/iso.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/memory.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/memory.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/pinball/pinball.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/pinball/pinball.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/pinball/pinball_.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/pinball/pinball_.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/pinball/pinball__.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/pinball/pinball__.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/play/__play.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/play/__play.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/play/_play.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/play/_play.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/play/game.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/play/game.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/play/play.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/play/play.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/playgameDitto.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/playgameDitto.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/shooter/_shooter.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/shooter/_shooter.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/shooter/blueCircle.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/shooter/blueCircle.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/shooter/blueCircle_.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/shooter/blueCircle_.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/shooter/shooter.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/shooter/shooter.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/shooter/shooter_.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/shooter/shooter_.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/slingShot.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/slingShot.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/spaceZoom/_space.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/spaceZoom/_space.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/spaceZoom/_zilla.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/spaceZoom/_zilla.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/spaceZoom/space.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/spaceZoom/space.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/spaceZoom/spacezoom.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/spaceZoom/spacezoom.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/spaceZoom/spacezoom1.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/spaceZoom/spacezoom1.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/spaceZoom/zilla.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/spaceZoom/zilla.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/spazCoinWarpy/coinWarp.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/spazCoinWarpy/coinWarp.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/spazCoinWarpy/coinWarp1.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/spazCoinWarpy/coinWarp1.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/spazNice.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/spazNice.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/spazPinball.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/spazPinball.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/spazSpaceZoom.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/spazSpaceZoom.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/spazStab.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/spazStab.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/sports/_sports.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/sports/_sports.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/sports/sports.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/sports/sports.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/spriteBoxApps.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/spriteBoxApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/tx/_tx.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/tx/_tx.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/tx/tx.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/tx/tx.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/webGuy/webguy.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/webGuy/webguy.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/webGuy/webguy1.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/webGuy/webguy1.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/webGuy/webguy11.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/webGuy/webguy11.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/webGuy/webman.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/webGuy/webman.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/webGuy/webman_.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/webGuy/webman_.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/wheelGames/spazWheel.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/wheelGames/spazWheel.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/wheelGames/wheel.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/wheelGames/wheel.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/games/wheelGames/wheel_.js" afterPath="$PROJECT_DIR$/fiz/arcade/games/wheelGames/wheel_.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/jetJump.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/jetJump.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/level_scroll_cloud_cirs.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/level_scroll_cloud_cirs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/makeWorldWalls.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/makeWorldWalls.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/mario.js" afterPath="$PROJECT_DIR$/fiz/arcade/mario.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/playerWorld.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/characters/mario/playerWorld.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/thrust.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/thrust.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/wallMirror.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/wallMirror.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/warp.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/warp.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/webman.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/characters/webGuy/webman.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/arcade/yippy.js" afterPath="$PROJECT_DIR$/fiz/arcade/yippy.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/box/bDefPt.js" afterPath="$PROJECT_DIR$/fiz/box/bDefPt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/box/bap0/boxApps.js" afterPath="$PROJECT_DIR$/fiz/box/bap0/boxApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/box/bap0/bxWebsiteEx1.js" afterPath="$PROJECT_DIR$/fiz/box/bap0/bxWebsiteEx1.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/box/bap0/forcesApps.js" afterPath="$PROJECT_DIR$/fiz/box/bap0/forcesApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/box/bap2/bxMouseApps.js" afterPath="$PROJECT_DIR$/fiz/box/bap2/bxMouseApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/box/bap2/bxWebsiteEx2.js" afterPath="$PROJECT_DIR$/fiz/box/bap2/bxWebsiteEx2.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/box/bap2/bxWebsiteEx2More.js" afterPath="$PROJECT_DIR$/fiz/box/bap2/bxWebsiteEx2More.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/box/bap2/bxWebsiteEx2_1.js" afterPath="$PROJECT_DIR$/fiz/box/bap2/bxWebsiteEx2_1.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/box/bap2/collApps.js" afterPath="$PROJECT_DIR$/fiz/box/bap2/collApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/box/bap2/controlApps.js" afterPath="$PROJECT_DIR$/fiz/box/bap2/controlApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/box/bap2/edgeApps.js" afterPath="$PROJECT_DIR$/fiz/box/bap2/edgeApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/box/bap2/link.js" afterPath="$PROJECT_DIR$/fiz/box/bap2/link.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/box/bap2/mouseJtApps.js" afterPath="$PROJECT_DIR$/fiz/box/bap2/mouseJtApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/box/bap2/watchKeysApps.js" afterPath="$PROJECT_DIR$/fiz/box/bap2/watchKeysApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/box/bindSpriteBoxApps.js" afterPath="$PROJECT_DIR$/fiz/box/bindSpriteBoxApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/box/bodyPt.js" afterPath="$PROJECT_DIR$/fiz/box/bodyPt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/box/box.js" afterPath="$PROJECT_DIR$/fiz/box/box.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/box/boxShape.js" afterPath="$PROJECT_DIR$/fiz/box/boxShape.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/box/debug.js" afterPath="$PROJECT_DIR$/fiz/box/debug.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/box/fixDefPt.js" afterPath="$PROJECT_DIR$/fiz/box/fixDefPt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/box/fixtPt.js" afterPath="$PROJECT_DIR$/fiz/box/fixtPt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/box/superBox.js" afterPath="$PROJECT_DIR$/fiz/box/superBox.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/box/worldBodies.js" afterPath="$PROJECT_DIR$/fiz/box/worldBodies.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/box/worldPoly.js" afterPath="$PROJECT_DIR$/fiz/box/worldPoly.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/box/worldPrt.js" afterPath="$PROJECT_DIR$/fiz/box/worldPrt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/collide/collide.js" afterPath="$PROJECT_DIR$/fiz/collide/collide.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/collide/collisionFiltering.js" afterPath="$PROJECT_DIR$/fiz/collide/collisionFiltering.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/collide/contactManager.js" afterPath="$PROJECT_DIR$/fiz/collide/contactManager.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/collide/contactPt.js" afterPath="$PROJECT_DIR$/fiz/collide/contactPt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/collide/cxImpulsePt.js" afterPath="$PROJECT_DIR$/fiz/collide/cxImpulsePt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/collide/worldListen.js" afterPath="$PROJECT_DIR$/fiz/collide/worldListen.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/controller/buoy.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/controller/buoy/buoy.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/controller/controllers.js" afterPath="$PROJECT_DIR$/fiz/controller/controllers.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/controller/grav.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/controller/grav.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/controller/tensor.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/controller/tensor/tensor.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/edge/edge.js" afterPath="$PROJECT_DIR$/fiz/edge/edge.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/edge/worldEdge.js" afterPath="$PROJECT_DIR$/fiz/edge/worldEdge.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fixtParse.js" afterPath="$PROJECT_DIR$/fiz/fixtParse.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/Box2DSeparator/b2Separator.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2DSeparator/b2Separator.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/bx_shape_protos.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/bx_shape_protos.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/demo.swf" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/demo.swf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/emannuel.html" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/emannuel.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/ClipVertex.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/ClipVertex.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/Features.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/Features.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/IBroadPhase.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/IBroadPhase.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/Shapes/b2CircleShape.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/Shapes/b2CircleShape.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/Shapes/b2EdgeChainDef.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/Shapes/b2EdgeChainDef.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/Shapes/b2EdgeShape.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/Shapes/b2EdgeShape.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/Shapes/b2MassData.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/Shapes/b2MassData.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/Shapes/b2PolygonShape.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/Shapes/b2PolygonShape.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/Shapes/b2Shape.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/Shapes/b2Shape.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2AABB.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2AABB.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2Bound.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2Bound.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2BoundValues.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2BoundValues.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2BroadPhase.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2BroadPhase.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2Collision.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2Collision.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2ContactID.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2ContactID.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2ContactPoint.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2ContactPoint.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2Distance.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2Distance.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2DistanceInput.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2DistanceInput.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2DistanceOutput.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2DistanceOutput.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2DistanceProxy.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2DistanceProxy.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2DynamicTree.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2DynamicTree.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2DynamicTreeBroadPhase.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2DynamicTreeBroadPhase.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2DynamicTreeNode.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2DynamicTreeNode.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2DynamicTreePair.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2DynamicTreePair.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2Manifold.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2Manifold.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2ManifoldPoint.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2ManifoldPoint.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2OBB.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2OBB.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2Pair.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2Pair.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2PairManager.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2PairManager.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2Point.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2Point.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2Proxy.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2Proxy.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2RayCastInput.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2RayCastInput.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2RayCastOutput.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2RayCastOutput.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2Segment.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2Segment.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2SeparationFunction.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2SeparationFunction.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2Simplex.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2Simplex.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2SimplexCache.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2SimplexCache.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2SimplexVertex.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2SimplexVertex.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2TOIInput.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2TOIInput.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2TimeOfImpact.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2TimeOfImpact.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2WorldManifold.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Collision/b2WorldManifold.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Common/Math/b2Mat22.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Common/Math/b2Mat22.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Common/Math/b2Mat33.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Common/Math/b2Mat33.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Common/Math/b2Math.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Common/Math/b2Math.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Common/Math/b2Sweep.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Common/Math/b2Sweep.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Common/Math/b2Transform.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Common/Math/b2Transform.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Common/Math/b2Vec2.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Common/Math/b2Vec2.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Common/Math/b2Vec3.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Common/Math/b2Vec3.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Common/b2Color.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Common/b2Color.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Common/b2Settings.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Common/b2Settings.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Common/b2internal.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Common/b2internal.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Contacts/b2CircleContact.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Contacts/b2CircleContact.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Contacts/b2Contact.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Contacts/b2Contact.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Contacts/b2ContactConstraint.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Contacts/b2ContactConstraint.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Contacts/b2ContactConstraintPoint.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Contacts/b2ContactConstraintPoint.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Contacts/b2ContactEdge.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Contacts/b2ContactEdge.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Contacts/b2ContactFactory.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Contacts/b2ContactFactory.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Contacts/b2ContactRegister.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Contacts/b2ContactRegister.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Contacts/b2ContactResult.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Contacts/b2ContactResult.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Contacts/b2ContactSolver.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Contacts/b2ContactSolver.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Contacts/b2EdgeAndCircleContact.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Contacts/b2EdgeAndCircleContact.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Contacts/b2NullContact.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Contacts/b2NullContact.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Contacts/b2PolyAndCircleContact.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Contacts/b2PolyAndCircleContact.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Contacts/b2PolyAndEdgeContact.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Contacts/b2PolyAndEdgeContact.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Contacts/b2PolygonContact.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Contacts/b2PolygonContact.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Contacts/b2PositionSolverManifold.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Contacts/b2PositionSolverManifold.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Controllers/b2BuoyancyController.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Controllers/b2BuoyancyController.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Controllers/b2ConstantAccelController.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Controllers/b2ConstantAccelController.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Controllers/b2ConstantForceController.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Controllers/b2ConstantForceController.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Controllers/b2Controller.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Controllers/b2Controller.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Controllers/b2ControllerEdge.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Controllers/b2ControllerEdge.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Controllers/b2GravityController.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Controllers/b2GravityController.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Controllers/b2TensorDampingController.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Controllers/b2TensorDampingController.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2DistanceJoint.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2DistanceJoint.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2DistanceJointDef.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2DistanceJointDef.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2FrictionJoint.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2FrictionJoint.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2FrictionJointDef.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2FrictionJointDef.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2GearJoint.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2GearJoint.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2GearJointDef.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2GearJointDef.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2Jacobian.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2Jacobian.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2Joint.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2Joint.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2JointDef.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2JointDef.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2JointEdge.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2JointEdge.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2LineJoint.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2LineJoint.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2LineJointDef.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2LineJointDef.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2MouseJoint.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2MouseJoint.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2MouseJointDef.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2MouseJointDef.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2PrismaticJoint.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2PrismaticJoint.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2PrismaticJointDef.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2PrismaticJointDef.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2PulleyJoint.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2PulleyJoint.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2PulleyJointDef.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2PulleyJointDef.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2RevoluteJoint.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2RevoluteJoint.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2RevoluteJointDef.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2RevoluteJointDef.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2WeldJoint.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2WeldJoint.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2WeldJointDef.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/Joints/b2WeldJointDef.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/b2Body.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/b2Body.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/b2BodyDef.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/b2BodyDef.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/b2ContactFilter.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/b2ContactFilter.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/b2ContactImpulse.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/b2ContactImpulse.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/b2ContactListener.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/b2ContactListener.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/b2ContactManager.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/b2ContactManager.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/b2DebugDraw.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/b2DebugDraw.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/b2DestructionListener.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/b2DestructionListener.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/b2FilterData.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/b2FilterData.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/b2Fixture.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/b2Fixture.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/b2FixtureDef.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/b2FixtureDef.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/b2Island.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/b2Island.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/b2TimeStep.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/b2TimeStep.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/b2World.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2D/Dynamics/b2World.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/Box2DSeparator/b2Separator.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/Box2DSeparator/b2Separator.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/example.as" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/example.as" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/example.fla" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/example.fla" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/Box2D_Separator_Archive/example/example.swf" afterPath="$PROJECT_DIR$/fiz/fiz/_about/Box2D_Separator_Archive/example/example.swf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_/alpha/koCustBind.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/_/alpha/koCustBind.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_/alpha/lookahead" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/_/alpha/lookahead" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_/alpha/parallax.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/_/alpha/parallax.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_/help/camDoc" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/_/help/camDoc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_/help/dimensions.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/_/help/dimensions.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_/help/help" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/_/help/help" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_/help/youtube" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/_/help/youtube" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_arcade" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/_about/_arcade" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_bitmap" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/_about/_about/_bitmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_sep/Sep$.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_sep/Sep$.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_sep/calcPlay.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_sep/calcPlay.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_sep/calcShapes.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_sep/calcShapes.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_sep/isOnLine.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_sep/isOnLine.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_sep/justOld.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_sep/justOld.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_sep/prePost/sep_post.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_sep/prePost/sep_post.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_sep/prePost/sep_pre.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_sep/prePost/sep_pre.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_sep/sep1b.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_sep/sep1b.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_sep/sepPlayAround.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_sep/sepPlayAround.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_sep/sep_.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_sep/sep_.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_spaz" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/_about/_spaz" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/imagesOld.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/_wap/imagesOld.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wapBoxes.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/_wap/wapBoxes.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/_wap/imagesOld.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/imagesOld.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/_wap/wapBoxes.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wapBoxes.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/_wap/wappyBootUI.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappyBootUI.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/_wap/wappyLater.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappyLater.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/_wap/wappyUILater.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappyUILater.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/buds.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/buds.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/home.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/home.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/login.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/login.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/muggy/_deps/defaultMug.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/muggy/_deps/defaultMug.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/muggy/_deps/uploadJsLib.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/muggy/_deps/uploadJsLib.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/muggy/avatar.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/muggy/avatar.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/muggy/bod.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/muggy/bod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/muggy/cutouts.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/muggy/cutouts.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/muggy/editor.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/muggy/editor.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/muggy/mug.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/muggy/mug.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/muggy/mugAnim.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/muggy/mugAnim.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/muggy/mugDemos.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/muggy/mugDemos.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/muggy/mugEase.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/muggy/mugEase.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/muggy/mugQueue.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/muggy/mugQueue.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/muggy/paint.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/muggy/paint.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/muggy/propbox.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/muggy/propbox.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/muggy/selected.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/muggy/selected.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/muggy/uploads.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/muggy/uploads.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/muggy/wapFilters.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/muggy/wapFilters.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/posts.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/posts.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/profile.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/profile.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/social.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/social.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/userCard.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/userCard.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/users.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/users.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/wapInit.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/wapInit.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/wappy.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/wappy.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/work/ranky.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/work/ranky.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/work/showcase.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/work/showcase.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/work/sorty.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/work/sorty.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappy/work/wapBook.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/work/wapBook.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappyBootUI.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/_wap/wappyBootUI.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappyLater.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/_wap/wappyLater.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/_wap/wappyUILater.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_wap/wappy/_wap/wappyUILater.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/b2d_fixtures.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/_about/b2d_fixtures.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/body_proto.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/_about/body_proto.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/displayOb.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/_about/displayOb.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/fixtProto.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/_about/fixtProto.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/fixt_proto_proxy.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/_about/fixt_proto_proxy.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/fxtDef_proto.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/_about/fxtDef_proto.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/h_drawPolygon.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/_about/h_drawPolygon.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/libsNotUsed/RDP.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/_about/libsNotUsed/RDP.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/makeWorldHelpers.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/_about/makeWorldHelpers.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/makeWorldHierachy.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/_about/makeWorldHierachy.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/notUsed/sun.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/_about/_about/notUsed/sun.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/spazKill.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/_about/spazKill.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/_about/stage" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/_about/stage" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/addArrBody.js" afterPath="$PROJECT_DIR$/fiz/fiz/addArrBody.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/addBody.js" afterPath="$PROJECT_DIR$/fiz/fiz/addBody.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/addRandomBodies.js" afterPath="$PROJECT_DIR$/fiz/fiz/addRandomBodies.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/addTriangle.js" afterPath="$PROJECT_DIR$/fiz/fiz/addTriangle.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/box/_box.js" afterPath="$PROJECT_DIR$/fiz/fiz/box/_box.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/box/box.js" afterPath="$PROJECT_DIR$/fiz/fiz/box/box.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/box/box0.js" afterPath="$PROJECT_DIR$/fiz/fiz/box/box0.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/box/collision.js" afterPath="$PROJECT_DIR$/fiz/fiz/box/collision.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/box/edgesOld.js" afterPath="$PROJECT_DIR$/fiz/fiz/box/edgesOld.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/box/listening.js" afterPath="$PROJECT_DIR$/fiz/fiz/box/listening.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/box/query.js" afterPath="$PROJECT_DIR$/fiz/fiz/box/query.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/box/userData.js" afterPath="$PROJECT_DIR$/fiz/fiz/box/userData.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/box/vectorUtils.js" afterPath="$PROJECT_DIR$/fiz/fiz/box/vectorUtils.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/box/wfDfn.js" afterPath="$PROJECT_DIR$/fiz/fiz/box/wfDfn.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/box/worldGrid.js" afterPath="$PROJECT_DIR$/fiz/fiz/box/worldGrid.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/canvasFitWalls.js" afterPath="$PROJECT_DIR$/fiz/fiz/canvasFitWalls.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/createArrBody.js" afterPath="$PROJECT_DIR$/fiz/fiz/createArrBody.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/createBody.js" afterPath="$PROJECT_DIR$/fiz/fiz/createBody.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/createBodyIsBul.js" afterPath="$PROJECT_DIR$/fiz/fiz/createBodyIsBul.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/createCir.js" afterPath="$PROJECT_DIR$/fiz/fiz/createCir.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/createEdge.js" afterPath="$PROJECT_DIR$/fiz/fiz/createEdge.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/createPols.js" afterPath="$PROJECT_DIR$/fiz/fiz/createPols.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/createPolys.js" afterPath="$PROJECT_DIR$/fiz/fiz/createPolys.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/damping.js" afterPath="$PROJECT_DIR$/fiz/fiz/damping.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/forces.js" afterPath="$PROJECT_DIR$/fiz/fiz/forces.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/gravity.js" afterPath="$PROJECT_DIR$/fiz/fiz/gravity.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/groundBody.js" afterPath="$PROJECT_DIR$/fiz/fiz/groundBody.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/iterateBodies.js" afterPath="$PROJECT_DIR$/fiz/fiz/iterateBodies.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/joints/distanceJt.js" afterPath="$PROJECT_DIR$/fiz/joints/distanceJt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/joints/distanceJtApps.js" afterPath="$PROJECT_DIR$/fiz/joints/distanceJtApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/joints/distanceJtMore.js" afterPath="$PROJECT_DIR$/fiz/joints/distanceJtMore.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/joints/distanceJtPlus.js" afterPath="$PROJECT_DIR$/fiz/joints/distanceJtPlus.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/joints/gearJt.js" afterPath="$PROJECT_DIR$/fiz/joints/gearJt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/joints/joints.js" afterPath="$PROJECT_DIR$/fiz/joints.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/joints/jointsAgain.js" afterPath="$PROJECT_DIR$/fiz/joints/jointsAgain.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/joints/jointsMore.js" afterPath="$PROJECT_DIR$/fiz/joints/jointsMore.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/joints/jointsPlus.js" afterPath="$PROJECT_DIR$/fiz/joints/jointsPlus.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/joints/lineJt.js" afterPath="$PROJECT_DIR$/fiz/joints/lineJt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/joints/mouseJt.js" afterPath="$PROJECT_DIR$/fiz/fiz/joints/mouseJt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/joints/prismaticJt.js" afterPath="$PROJECT_DIR$/fiz/joints/prismaticJt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/joints/pulleyJt.js" afterPath="$PROJECT_DIR$/fiz/joints/pulleyJt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/joints/revoluteJt.js" afterPath="$PROJECT_DIR$/fiz/joints/revoluteJt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/joints/rope.js" afterPath="$PROJECT_DIR$/fiz/joints/rope.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/joints/weldJt.js" afterPath="$PROJECT_DIR$/fiz/joints/weldJt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/joints/worldJoints.js" afterPath="$PROJECT_DIR$/fiz/joints/worldJoints.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/.idea/.name" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/.idea/.name" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/.idea/misc.xml" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/.idea/misc.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/.idea/modules.xml" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/.idea/modules.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/.idea/spaz.iml" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/.idea/spaz.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/.idea/vcs.xml" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/.idea/vcs.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/.idea/workspace.xml" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/TripleStage.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/TripleStage.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/_about/_about/_bitmap" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_bitmap" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/_about/_about/altVersionsOfFunctions.js" afterPath="$PROJECT_DIR$/fiz/spaz/alpha/altVersionsOfFunctions.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/_about/_about/notUsed/sun.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/notUsed/sun.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/_about/_spaz" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_spaz" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/_about/b2d_fixtures.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/b2d_fixtures.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/_about/body_proto.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/body_proto.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/_about/displayOb.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/displayOb.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/_about/fixtProto.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/fixtProto.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/_about/fixt_proto_proxy.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/fixt_proto_proxy.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/_about/fxtDef_proto.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/fxtDef_proto.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/_about/h_drawPolygon.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/h_drawPolygon.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/_about/libsNotUsed/RDP.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/libsNotUsed/RDP.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/_about/makeWorldHelpers.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/makeWorldHelpers.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/_about/makeWorldHierachy.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/makeWorldHierachy.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/_about/spazKill.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/spazKill.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/_about/stage" afterPath="$PROJECT_DIR$/fiz/fiz/_about/stage" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/_about/_arcade" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_arcade" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/bodyDirection.js" afterPath="$PROJECT_DIR$/fiz/arcade/bodyDirection.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/.idea/.name" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/.idea/.name" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/.idea/camera.iml" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/.idea/camera.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/.idea/inspectionProfiles/Project_Default.xml" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/.idea/misc.xml" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/.idea/misc.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/.idea/modules.xml" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/.idea/modules.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/.idea/vcs.xml" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/.idea/vcs.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/.idea/workspace.xml" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/.idea/workspace.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/_/alpha/koCustBind.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_/alpha/koCustBind.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/_/alpha/lookahead" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_/alpha/lookahead" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/_/alpha/parallax.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_/alpha/parallax.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/_/help/camDoc" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_/help/camDoc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/_/help/dimensions.js" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_/help/dimensions.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/_/help/help" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_/help/help" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/_/help/youtube" afterPath="$PROJECT_DIR$/fiz/fiz/_about/_/help/youtube" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/perfectCamera.js" afterPath="$PROJECT_DIR$/fiz/_fiz/fizApps/perfectCamera.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/scroll/apps/autoScrollApps.js" afterPath="$PROJECT_DIR$/fiz/spaz/camera/marioScroll/autoScrollApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/scroll/marioScaleScroll.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/scroll/marioScaleScroll.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/scroll/marioScroll.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/scroll/marioScroll.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/scroll/playerScrollLevelTemplates.js" afterPath="$PROJECT_DIR$/fiz/spaz/camera/marioScroll/playerScrollLevelTemplates.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/scroll/spaceZoom.js" afterPath="$PROJECT_DIR$/fiz/spaz/camera/marioScroll/spaceZoom.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/scroll/webGuy.js" afterPath="$PROJECT_DIR$/fiz/spaz/camera/marioScroll/webGuy.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/track/apps/bufferTrackingApps.js" afterPath="$PROJECT_DIR$/fiz/spaz/camera/track/_apps/bufferTrackingApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/track/apps/showOffApps.js" afterPath="$PROJECT_DIR$/fiz/spaz/camera/track/_apps/showOffApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/track/apps/trackApps.js" afterPath="$PROJECT_DIR$/fiz/spaz/camera/track/_apps/trackApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/track/apps/trackeeApps.js" afterPath="$PROJECT_DIR$/fiz/spaz/camera/track/_apps/trackeeApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/track/scroll.js" afterPath="$PROJECT_DIR$/fiz/spaz/camera/track/scroll.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/track/track.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/track/track.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/track/trackMore.js" afterPath="$PROJECT_DIR$/fiz/spaz/camera/track/trackMore.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/track/trackee.js" afterPath="$PROJECT_DIR$/fiz/spaz/camera/track/trackee.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/track/trackeeWorld.js" afterPath="$PROJECT_DIR$/fiz/spaz/camera/track/trackeeWorld.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/track/tracking.js" afterPath="$PROJECT_DIR$/fiz/spaz/camera/track/tracking.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/track/trackingBuffer.js" afterPath="$PROJECT_DIR$/fiz/spaz/camera/track/trackingBuffer.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/zoom/apps/zoomScaleApps.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/zoom/apps/zoomScaleApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/zoom/dumb.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/zoom/dumb.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/zoom/smart.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/zoom/smart.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/zoom/zoom.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/zoom/zoom.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/camera/zoom/zoomWorld.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/zoom/zoomWorld.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/characters/bike.js" afterPath="$PROJECT_DIR$/fiz/joints/bike.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/characters/mario/$player.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/characters/mario/$player.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/characters/mario/_player.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/characters/mario/_player.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/characters/mario/foot.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/characters/mario/foot.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/characters/mario/jump.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/characters/mario/jump.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/characters/mario/mario.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/characters/mario/mario.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/characters/mario/marioLater.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/characters/mario/marioLater.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/characters/mario/playerApps.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/characters/mario/playerApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/characters/mario/playerWorld.js" afterPath="$PROJECT_DIR$/fiz/arcade/playerWorld.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/characters/webGuy/webTimeGun.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/characters/webGuy/webTimeGun.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/characters/webGuy/webman.js" afterPath="$PROJECT_DIR$/fiz/arcade/webman.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/characters/webGuy/webman11.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/characters/webGuy/webman11.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/characters/webGuy/webmanBroke.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/characters/webGuy/webmanBroke.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/characters/yip/yaps/collideYaps.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/characters/yip/yaps/collideYaps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/characters/yip/yippy.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/characters/yip/yippy.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/characters/yip/yippyFly.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/characters/yip/yippyFly.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/characters/yip/yippyShootEv.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/characters/yip/yippyShootEv.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/controller/about/controllers.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/controller/about/controllers.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/controller/about/worldMove.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/controller/about/worldMove.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/controller/accel.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/controller/accel.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/controller/buoy/buoy.js" afterPath="$PROJECT_DIR$/fiz/controller/buoy.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/controller/foCo.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/controller/foCo.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/controller/grav.js" afterPath="$PROJECT_DIR$/fiz/controller/grav.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/controller/multipleBods.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/controller/multipleBods.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/controller/sensorContollers/bindCo.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/controller/sensorContollers/bindCo.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/controller/tensor/tensor.js" afterPath="$PROJECT_DIR$/fiz/controller/tensor.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/gameEngine.js" afterPath="$PROJECT_DIR$/fiz/arcade/gameEngine.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/jetJump.js" afterPath="$PROJECT_DIR$/fiz/arcade/jetJump.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/layers/centerOfWorld.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/layers/centerOfWorld.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/layers/draw.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/layers/draw.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/layers/moreDots.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/layers/moreDots.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/layers/stageUI.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/stage/stageUI.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/level_scroll_cloud_cirs.js" afterPath="$PROJECT_DIR$/fiz/arcade/level_scroll_cloud_cirs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/levels/levelTemplateSystem.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/levels/levelTemplateSystem.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/levels/staticObjectGroups.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/levels/staticObjectGroups.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/makeWorldWalls.js" afterPath="$PROJECT_DIR$/fiz/arcade/makeWorldWalls.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/thrust.js" afterPath="$PROJECT_DIR$/fiz/arcade/thrust.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/wallMirror.js" afterPath="$PROJECT_DIR$/fiz/arcade/wallMirror.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/arcade/warp.js" afterPath="$PROJECT_DIR$/fiz/arcade/warp.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/bindDob/bindBitmap/Bm.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/bindDob/bindBitmap/Bm.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/bindDob/bindBitmap/bitmapFillRec.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/bindDob/bindBitmap/bitmapFillRec.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/bindDob/bindBitmap/loader.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/bindDob/bindBitmap/loader.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/bindDob/bindEaselShape/b_f.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/bindDob/bindEaselShape/b_f.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/bindDob/bindEaselShape/bagRock/BAG.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/bindDob/bindEaselShape/bagRock/BAG.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/bindDob/bindEaselShape/bagRock/ROCK.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/bindDob/bindEaselShape/bagRock/ROCK.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/bindDob/bindEaselShape/ballBump/BALL.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/bindDob/bindEaselShape/ballBump/BALL.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/bindDob/bindEaselShape/ballBump/BRICK.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/bindDob/bindEaselShape/ballBump/BRICK.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/bindDob/bindEaselShape/ballBump/BUMP.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/bindDob/bindEaselShape/ballBump/BUMP.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/bindDob/bindEaselShape/ballBump/ct_dot.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/bindDob/bindEaselShape/ballBump/ct_dot.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/bindDob/bindEaselShape/ballBump/dO_linkedCircles.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/bindDob/bindEaselShape/ballBump/dO_linkedCircles.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/bindDob/bindEaselShape/ballBump/dots.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/bindDob/bindEaselShape/ballBump/dots.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/bindDob/bindEaselShape/body_shape.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/bindDob/bindEaselShape/body_shape.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/bindDob/bindEaselShape/boxBrick/BOX.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/bindDob/bindEaselShape/boxBrick/BOX.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/bindDob/bindEaselShape/boxBrick/spriteSensor.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/bindDob/bindEaselShape/boxBrick/spriteSensor.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/bindDob/bindEaselShape/color.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/bindDob/bindEaselShape/color.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/bindDob/bindEaselShape/draw.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/bindDob/bindEaselShape/draw.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/bindDob/bindEaselShape/testPoint_with_dot.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/bindDob/bindEaselShape/testPoint_with_dot.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/bindDob/easelSpriteSheets/bodySpriteAnim.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/bindDob/easelSpriteSheets/bodySpriteAnim.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/bindDob/easelSpriteSheets/packSS.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/bindDob/easelSpriteSheets/packSS.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/bindDob/easelSpriteSheets/worldSpriteBox.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/bindDob/easelSpriteSheets/worldSpriteBox.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/dobBinding/bodyDobs.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/dobBinding/bodyDobs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/dobBinding/fixtureDobs.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/dobBinding/fixtureDobs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/dobBinding/worldDobs.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/dobBinding/worldDobs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/easelGraphics.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/easelGraphics.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/webBox.js" afterPath="$PROJECT_DIR$/fiz/spaz/alpha/webBox.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/spaz/worldStageTranslation.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/worldStageTranslation.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/velocity.js" afterPath="$PROJECT_DIR$/fiz/fiz/velocity.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/w_yShip.js" afterPath="$PROJECT_DIR$/fiz/fiz/w_yShip.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/wallRecs.js" afterPath="$PROJECT_DIR$/fiz/fiz/wallRecs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/walls.js" afterPath="$PROJECT_DIR$/fiz/fiz/walls.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/fiz/worldStep.js" afterPath="$PROJECT_DIR$/fiz/fiz/worldStep.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/geo/clipperBox.js" afterPath="$PROJECT_DIR$/fiz/geo/clipperBox.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/geo/geoBod.js" afterPath="$PROJECT_DIR$/fiz/geo/geoBod.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/geo/geoBool.js" afterPath="$PROJECT_DIR$/fiz/geo/geoBool.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/geo/geoFix.js" afterPath="$PROJECT_DIR$/fiz/geo/geoFix.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/geo/geoShape.js" afterPath="$PROJECT_DIR$/fiz/geo/geoShape.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/geo/geoTranslate.js" afterPath="$PROJECT_DIR$/fiz/geo/geoTranslate.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/geo/geoWorld.js" afterPath="$PROJECT_DIR$/fiz/geo/geoWorld.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/geo/polyCir.js" afterPath="$PROJECT_DIR$/fiz/geo/polyCir.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/geo/removedFromClipperRecentlyBecauseHadBox.js" afterPath="$PROJECT_DIR$/fiz/geo/removedFromClipperRecentlyBecauseHadBox.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/geo/superSep.js" afterPath="$PROJECT_DIR$/fiz/geo/superSep.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/joints.js" afterPath="$PROJECT_DIR$/fiz/fiz/joints/joints.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/joints/bike.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/characters/bike.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/joints/distanceJt.js" afterPath="$PROJECT_DIR$/fiz/fiz/joints/distanceJt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/joints/distanceJtApps.js" afterPath="$PROJECT_DIR$/fiz/fiz/joints/distanceJtApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/joints/distanceJtMore.js" afterPath="$PROJECT_DIR$/fiz/fiz/joints/distanceJtMore.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/joints/distanceJtPlus.js" afterPath="$PROJECT_DIR$/fiz/fiz/joints/distanceJtPlus.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/joints/gearJt.js" afterPath="$PROJECT_DIR$/fiz/fiz/joints/gearJt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/joints/jointsAgain.js" afterPath="$PROJECT_DIR$/fiz/fiz/joints/jointsAgain.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/joints/jointsMore.js" afterPath="$PROJECT_DIR$/fiz/fiz/joints/jointsMore.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/joints/jointsPlus.js" afterPath="$PROJECT_DIR$/fiz/fiz/joints/jointsPlus.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/joints/lineJt.js" afterPath="$PROJECT_DIR$/fiz/fiz/joints/lineJt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/joints/prismaticJt.js" afterPath="$PROJECT_DIR$/fiz/fiz/joints/prismaticJt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/joints/pulleyJt.js" afterPath="$PROJECT_DIR$/fiz/fiz/joints/pulleyJt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/joints/revoluteJt.js" afterPath="$PROJECT_DIR$/fiz/fiz/joints/revoluteJt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/joints/rope.js" afterPath="$PROJECT_DIR$/fiz/fiz/joints/rope.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/joints/weldJt.js" afterPath="$PROJECT_DIR$/fiz/fiz/joints/weldJt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/joints/worldJoints.js" afterPath="$PROJECT_DIR$/fiz/fiz/joints/worldJoints.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/kin/kinetic.js" afterPath="$PROJECT_DIR$/fiz/kin/kinetic.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/kin/worldKin.js" afterPath="$PROJECT_DIR$/fiz/kin/worldKin.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/_/base.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/_/base.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/_/contactListener.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/_/contactListener.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/_/keyHandling.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/_/keyHandling.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/_/makeWorldCan.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/_/makeWorldCan.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/_/sharedUtilHelpers.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/_/sharedUtilHelpers.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/dimensions/centerOfWorld.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/dimensions/centerOfWorld.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/dimensions/dimensions.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/dimensions/dimensions.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/dimensions/worldScaled.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/dimensions/worldScaled.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/dimensions/zoomWorld.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/dimensions/zoomWorld.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/loop/loop.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/loop/loop.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/modules/dimensions.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/modules/dimensions.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/modules/enterFrame.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/modules/enterFrame.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/modules/handling.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/modules/handling.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/modules/keys.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/modules/keys.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/modules/mJointMu.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/modules/mJointMu.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/modules/makeStage.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/modules/makeStage.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/modules/mouseMu.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/modules/mouseMu.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/modules/room.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/modules/room.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/modules/stageMu.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/modules/stageMu.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/modules/startKilling.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/modules/startKilling.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/modules/startListening.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/modules/startListening.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/modules/theWorld.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/modules/theWorld.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/modules/tracking.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/modules/tracking.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/modules/wallsMu.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/modules/wallsMu.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/modules/withHeight.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/modules/withHeight.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/mouse/mouseJt.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/mouse/mouseJt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/mouse/mouseWorld.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/mouse/mouseWorld.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/mouse/worldMouse.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/mouse/worldMouse.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/spaz/w_loader.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/spaz/w_loader.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/stage/stageUI.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/layers/stageUI.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/stage/worldStageTranslation.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/stage/worldStageTranslation.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/walls/walls.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/walls/walls.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/worldDimensionMethods.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/worldDimensionMethods.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/worlds/boxCan.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/worlds/boxCan.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/worlds/listenWorld.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/worlds/listenWorld.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/worlds/makeBoxWorld.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/worlds/makeBoxWorld.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/worlds/scrollWorld.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/worlds/scrollWorld.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/makeWorld/worlds/spazWorld.js" afterPath="$PROJECT_DIR$/fiz/makeWorld/worlds/spazWorld.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/query/RAY.js" afterPath="$PROJECT_DIR$/fiz/query/RAY.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/query/query.js" afterPath="$PROJECT_DIR$/fiz/query/query.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/query/queryCommon.js" afterPath="$PROJECT_DIR$/fiz/query/queryCommon.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/query/rayDocs.js" afterPath="$PROJECT_DIR$/fiz/query/rayDocs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/query/worldQuery.js" afterPath="$PROJECT_DIR$/fiz/query/worldQuery.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/scrollSoon.js" afterPath="$PROJECT_DIR$/fiz/scrollSoon.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/_/BOX.js" afterPath="$PROJECT_DIR$/fiz/spaz/_/BOX.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/_apps/arcadeGames.js" afterPath="$PROJECT_DIR$/fiz/spaz/_apps/arcadeGames.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/_apps/bindSprite.js" afterPath="$PROJECT_DIR$/fiz/spaz/_apps/bindSprite.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/_apps/easelSpazApps.js" afterPath="$PROJECT_DIR$/fiz/spaz/_apps/easelSpazApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/_apps/easelWorldApps.js" afterPath="$PROJECT_DIR$/fiz/spaz/_apps/easelWorldApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/_apps/platform.js" afterPath="$PROJECT_DIR$/fiz/spaz/_apps/platform.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/_apps/protoNight.js" afterPath="$PROJECT_DIR$/fiz/spaz/_apps/protoNight.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/_apps/scenes.js" afterPath="$PROJECT_DIR$/fiz/spaz/_apps/scenes.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/_apps/spazBlocks.js" afterPath="$PROJECT_DIR$/fiz/spaz/_apps/spazBlocks.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/_apps/worldBalls.js" afterPath="$PROJECT_DIR$/fiz/spaz/_apps/worldBalls.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/_apps/worldLoader.js" afterPath="$PROJECT_DIR$/fiz/spaz/_apps/worldLoader.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/_apps/worldStage.js" afterPath="$PROJECT_DIR$/fiz/spaz/_apps/worldStage.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/alpha/altVersionsOfFunctions.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/_about/_about/altVersionsOfFunctions.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/alpha/webBox.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/webBox.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/alpha/worldRandomBods.js" afterPath="$PROJECT_DIR$/fiz/spaz/alpha/worldRandomBods.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/alpha/worldShip.js" afterPath="$PROJECT_DIR$/fiz/spaz/alpha/worldShip.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/alpha/worldSoon.js" afterPath="$PROJECT_DIR$/fiz/spaz/alpha/worldSoon.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/anim/bodySpriteAnim.js" afterPath="$PROJECT_DIR$/fiz/spaz/anim/bodySpriteAnim.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/bodyDobs.js" afterPath="$PROJECT_DIR$/fiz/spaz/bodyDobs.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/body_fixture.js" afterPath="$PROJECT_DIR$/fiz/spaz/body_fixture.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/camera/_apps/zoomScaleApps.js" afterPath="$PROJECT_DIR$/fiz/spaz/camera/_apps/zoomScaleApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/camera/marioScroll/autoScroll.js" afterPath="$PROJECT_DIR$/fiz/spaz/camera/marioScroll/autoScroll.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/camera/marioScroll/autoScrollApps.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/scroll/apps/autoScrollApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/camera/marioScroll/marioScaleScroll.js" afterPath="$PROJECT_DIR$/fiz/spaz/camera/marioScroll/marioScaleScroll.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/camera/marioScroll/marioScrollX.js" afterPath="$PROJECT_DIR$/fiz/spaz/camera/marioScroll/marioScrollX.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/camera/marioScroll/marioScrollXY.js" afterPath="$PROJECT_DIR$/fiz/spaz/camera/marioScroll/marioScrollXY.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/camera/marioScroll/playerScrollLevelTemplates.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/scroll/playerScrollLevelTemplates.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/camera/marioScroll/spaceZoom.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/scroll/spaceZoom.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/camera/marioScroll/webGuy.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/scroll/webGuy.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/camera/smart.js" afterPath="$PROJECT_DIR$/fiz/spaz/camera/smart.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/camera/smart_w_st_X.js" afterPath="$PROJECT_DIR$/fiz/spaz/camera/smart_w_st_X.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/camera/track/_apps/bufferTrackingApps.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/track/apps/bufferTrackingApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/camera/track/_apps/showOffApps.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/track/apps/showOffApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/camera/track/_apps/trackApps.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/track/apps/trackApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/camera/track/_apps/trackeeApps.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/track/apps/trackeeApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/camera/track/scroll.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/track/scroll.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/camera/track/track.js" afterPath="$PROJECT_DIR$/fiz/spaz/camera/track/track.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/camera/track/trackMore.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/track/trackMore.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/camera/track/trackee.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/track/trackee.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/camera/track/trackeeWorld.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/track/trackeeWorld.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/camera/track/tracking.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/track/tracking.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/camera/track/trackingBuffer.js" afterPath="$PROJECT_DIR$/fiz/fiz/spaz/arcade/camera/track/trackingBuffer.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/camera/wisdom" afterPath="$PROJECT_DIR$/fiz/spaz/camera/wisdom" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/camera/zoom.js" afterPath="$PROJECT_DIR$/fiz/spaz/camera/zoom.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/camera/zoomPlus.js" afterPath="$PROJECT_DIR$/fiz/spaz/camera/zoomPlus.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/fixtureBindSprite.js" afterPath="$PROJECT_DIR$/fiz/spaz/fixtureBindSprite.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/fixtureColor.js" afterPath="$PROJECT_DIR$/fiz/spaz/fixtureColor.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/fixtureKill.js" afterPath="$PROJECT_DIR$/fiz/spaz/fixtureKill.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/fixture_single_sprite_old.js" afterPath="$PROJECT_DIR$/fiz/spaz/fixture_single_sprite_old.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/spazBody.js" afterPath="$PROJECT_DIR$/fiz/spaz/spazBody.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/spazDev/_apps/spazDevApps.js" afterPath="$PROJECT_DIR$/fiz/spaz/spazDev/_apps/spazDevApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/spazDev/_apps/writeApps.js" afterPath="$PROJECT_DIR$/fiz/spaz/spazDev/_apps/writeApps.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/spazDev/b_hCen.js" afterPath="$PROJECT_DIR$/fiz/spaz/spazDev/b_hCen.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/spazDev/spazColor.js" afterPath="$PROJECT_DIR$/fiz/spaz/spazDev/spazColor.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/spazDev/spazDev.js" afterPath="$PROJECT_DIR$/fiz/spaz/spazDev/spazDev.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/spazDev/spazStats.js" afterPath="$PROJECT_DIR$/fiz/spaz/spazDev/spazStats.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/spazDev/stageDots.js" afterPath="$PROJECT_DIR$/fiz/spaz/spazDev/stageDots.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/spazDev/stageLayers.js" afterPath="$PROJECT_DIR$/fiz/spaz/spazDev/stageLayers.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/spazDev/stageLines.js" afterPath="$PROJECT_DIR$/fiz/spaz/spazDev/stageLines.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/spazDev/stageRec.js" afterPath="$PROJECT_DIR$/fiz/spaz/spazDev/stageRec.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/spazDev/stageText.js" afterPath="$PROJECT_DIR$/fiz/spaz/spazDev/stageText.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/spazDev/w_bitmapFillShape.js" afterPath="$PROJECT_DIR$/fiz/spaz/spazDev/w_bitmapFillShape.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/toSort.js" afterPath="$PROJECT_DIR$/fiz/spaz/toSort.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/w_preKill.js" afterPath="$PROJECT_DIR$/fiz/spaz/w_preKill.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/spaz/worldDev.js" afterPath="$PROJECT_DIR$/fiz/spaz/worldDev.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/front/fiz/worldEach.js" afterPath="$PROJECT_DIR$/fiz/worldEach.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/girlSS.jpg" afterPath="$PROJECT_DIR$/tilesets/girlSS.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/globComp.js" afterPath="$PROJECT_DIR$/canvas/globComp.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/imgDa.js" afterPath="$PROJECT_DIR$/canvas/imgDa.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/paths.js" afterPath="$PROJECT_DIR$/canvas/paths.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/shad.js" afterPath="$PROJECT_DIR$/canvas/shad.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/text.js" afterPath="$PROJECT_DIR$/canvas/text.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/transform.js" afterPath="$PROJECT_DIR$/canvas/transform.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tiles/beret.png" afterPath="$PROJECT_DIR$/tiles/beret.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tiles/cat.png" afterPath="$PROJECT_DIR$/tiles/cat.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tiles/crate64.jpeg" afterPath="$PROJECT_DIR$/tiles/crate64.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tiles/devil.png" afterPath="$PROJECT_DIR$/tiles/devil.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tiles/fish.png" afterPath="$PROJECT_DIR$/tiles/fish.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tiles/grass64.png" afterPath="$PROJECT_DIR$/tiles/grass64.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tiles/knight.png" afterPath="$PROJECT_DIR$/tiles/knight.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tiles/obama.png" afterPath="$PROJECT_DIR$/tiles/obama.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tiles/purple.jpeg" afterPath="$PROJECT_DIR$/tiles/purple.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tiles/wall64.jpeg" afterPath="$PROJECT_DIR$/tiles/wall64.jpeg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tiles/water.jpg" afterPath="$PROJECT_DIR$/tiles/water.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tilesets/DungeonCrawl_ProjectUtumnoTileset.png" afterPath="$PROJECT_DIR$/tilesets/DungeonCrawl_ProjectUtumnoTileset.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tilesets/funset.png" afterPath="$PROJECT_DIR$/tilesets/funset.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tilesets/rpgset.png" afterPath="$PROJECT_DIR$/tilesets/rpgset.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tilesets/tilset.png" afterPath="$PROJECT_DIR$/tilesets/tilset.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/a.js" afterPath="$PROJECT_DIR$/a.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/anim/$Sp.js" afterPath="$PROJECT_DIR$/anim/$Sp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/anim/animPre.js" afterPath="$PROJECT_DIR$/anim/animPre.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/anim/sprite.js" afterPath="$PROJECT_DIR$/anim/sprite.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/anim/timeline.js" afterPath="$PROJECT_DIR$/anim/timeline.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/anim/toolkit/bitney/britneyBitches.js" afterPath="$PROJECT_DIR$/anim/toolkit/bitney/britneyBitches.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/anim/toolkit/bitney/toolkitBritney.js" afterPath="$PROJECT_DIR$/anim/toolkit/bitney/toolkitBritney.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/anim/toolkit/chars.js" afterPath="$PROJECT_DIR$/anim/toolkit/chars.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/anim/toolkit/flashScroller/FLASHSCROLLER.js" afterPath="$PROJECT_DIR$/anim/toolkit/flashScroller/FLASHSCROLLER.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/easel/$h.js" afterPath="$PROJECT_DIR$/easel/$h.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/easel/_apps/ldrBmApps.js" afterPath="$PROJECT_DIR$/easel/_apps/ldrBmApps.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/easel/cjsCir.js" afterPath="$PROJECT_DIR$/easel/cjsCir.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/easel/cjsCurve.js" afterPath="$PROJECT_DIR$/easel/cjsCurve.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/easel/cjsDomEl.js" afterPath="$PROJECT_DIR$/easel/cjsDomEl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/easel/cjsGrad/_/gradNot.js" afterPath="$PROJECT_DIR$/easel/cjsGrad/_/gradNot.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/easel/cjsGrad/_/gradWorks.js" afterPath="$PROJECT_DIR$/easel/cjsGrad/_/gradWorks.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/easel/cjsGrad/_/lin.js" afterPath="$PROJECT_DIR$/easel/cjsGrad/_/lin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/easel/cjsGrad/_/mick.js" afterPath="$PROJECT_DIR$/easel/cjsGrad/_/mick.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/easel/cjsGrad/_/rad.js" afterPath="$PROJECT_DIR$/easel/cjsGrad/_/rad.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/easel/cjsGrad/_/stroke.js" afterPath="$PROJECT_DIR$/easel/cjsGrad/_/stroke.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/easel/cjsGrad/cjsGrad.js" afterPath="$PROJECT_DIR$/easel/cjsGrad/cjsGrad.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/easel/cjsGrad/gxLin.js" afterPath="$PROJECT_DIR$/easel/cjsGrad/gxLin.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/easel/cjsGrad/gxRad.js" afterPath="$PROJECT_DIR$/easel/cjsGrad/gxRad.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/easel/createBaseEvents.js" afterPath="$PROJECT_DIR$/easel/createBaseEvents.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/easel/createDraw.js" afterPath="$PROJECT_DIR$/easel/createDraw.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/easel/easelJSApiTest.js" afterPath="$PROJECT_DIR$/easel/easelJSApiTest.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/easel/filterCache.js" afterPath="$PROJECT_DIR$/easel/filterCache.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/easel/graphix.js" afterPath="$PROJECT_DIR$/easel/graphix.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/easel/loader.js" afterPath="$PROJECT_DIR$/easel/loader.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/easel/twirl.js" afterPath="$PROJECT_DIR$/easel/twirl.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/home.js" afterPath="$PROJECT_DIR$/front/home.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/jquiWids.js" afterPath="$PROJECT_DIR$/front/jquiWids.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/muggy.js" afterPath="$PROJECT_DIR$/front/muggy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/front/wappy.js" afterPath="$PROJECT_DIR$/front/wappy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/chat.js" afterPath="$PROJECT_DIR$/server/chat.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server/sockStart.js" afterPath="$PROJECT_DIR$/server/sockStart.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tigris/tut1" afterPath="$PROJECT_DIR$/tigris/tut1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tigris/tut1.js" afterPath="$PROJECT_DIR$/tigris/tut1.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tigris/tut10" afterPath="$PROJECT_DIR$/tigris/tut10" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tigris/tut10.js" afterPath="$PROJECT_DIR$/tigris/tut10.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tigris/tut2" afterPath="$PROJECT_DIR$/tigris/tut2" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tigris/tut2.js" afterPath="$PROJECT_DIR$/tigris/tut2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tigris/tut3" afterPath="$PROJECT_DIR$/tigris/tut3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tigris/tut3.js" afterPath="$PROJECT_DIR$/tigris/tut3.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tigris/tut4" afterPath="$PROJECT_DIR$/tigris/tut4" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tigris/tut4.js" afterPath="$PROJECT_DIR$/tigris/tut4.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tigris/tut5" afterPath="$PROJECT_DIR$/tigris/tut5" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tigris/tut5.js" afterPath="$PROJECT_DIR$/tigris/tut5.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tigris/tut6" afterPath="$PROJECT_DIR$/tigris/tut6" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tigris/tut6.js" afterPath="$PROJECT_DIR$/tigris/tut6.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tigris/tut7" afterPath="$PROJECT_DIR$/tigris/tut7" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tigris/tut7.js" afterPath="$PROJECT_DIR$/tigris/tut7.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tigris/tut8" afterPath="$PROJECT_DIR$/tigris/tut8" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tigris/tut8.js" afterPath="$PROJECT_DIR$/tigris/tut8.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tigris/tut9" afterPath="$PROJECT_DIR$/tigris/tut9" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tigris/tut9.js" afterPath="$PROJECT_DIR$/tigris/tut9.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/background.js" afterPath="$PROJECT_DIR$/web/background.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/css.js" afterPath="$PROJECT_DIR$/web/css.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/events.js" afterPath="$PROJECT_DIR$/web/events.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/font.js" afterPath="$PROJECT_DIR$/web/font.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/html.js" afterPath="$PROJECT_DIR$/web/html.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/img.js" afterPath="$PROJECT_DIR$/web/img.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/mock.js" afterPath="$PROJECT_DIR$/web/mock.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/outline.js" afterPath="$PROJECT_DIR$/web/outline.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/web.js" afterPath="$PROJECT_DIR$/web/web.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web/webApps.js" afterPath="$PROJECT_DIR$/web/webApps.js" />
+    </list>
+    <ignored path="_tidy.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="_tidy" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="createEdge.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fiz/fiz/createEdge.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="createPols.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fiz/fiz/createPols.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="createPolys.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fiz/fiz/createPolys.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gravity.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fiz/fiz/gravity.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="groundBody.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fiz/fiz/groundBody.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="iterateBodies.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fiz/fiz/iterateBodies.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="velocity.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fiz/fiz/velocity.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="63" column="2" selection-start-line="63" selection-start-column="2" selection-end-line="63" selection-end-column="2" />
+              <folding>
+                <element signature="e#19#179#0" expanded="false" />
+                <element signature="e#218#343#0" expanded="false" />
+                <element signature="e#364#592#0" expanded="false" />
+                <element signature="e#613#818#0" expanded="false" />
+                <element signature="e#857#967#0" expanded="false" />
+                <element signature="e#988#1024#0" expanded="false" />
+                <element signature="e#1045#1082#0" expanded="false" />
+                <element signature="e#1105#1150#0" expanded="false" />
+                <element signature="e#1173#1218#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="textarea.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/textarea.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.10983982">
+              <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="a.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/a.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="111" column="65" selection-start-line="111" selection-start-column="65" selection-end-line="111" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="w_yShip.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fiz/fiz/w_yShip.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-45.333332">
+              <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tigris/tut6.js" />
+        <option value="$PROJECT_DIR$/tigris/tut8" />
+        <option value="$PROJECT_DIR$/tigris/tut10.js" />
+        <option value="$PROJECT_DIR$/canApps.js" />
+        <option value="$PROJECT_DIR$/bx.js" />
+        <option value="$PROJECT_DIR$/bb.js" />
+        <option value="$PROJECT_DIR$/cjs.js" />
+        <option value="$PROJECT_DIR$/ko.js" />
+        <option value="$PROJECT_DIR$/web/web.js" />
+        <option value="$PROJECT_DIR$/canvas/canApps.js" />
+        <option value="$PROJECT_DIR$/buildGameBook/game3.js" />
+        <option value="$PROJECT_DIR$/buildGameBook/game4.js" />
+        <option value="$PROJECT_DIR$/buildGameBook/game5.js" />
+        <option value="$PROJECT_DIR$/buildGameBook/game6.js" />
+        <option value="$PROJECT_DIR$/buildGameBook/game2.js" />
+        <option value="$PROJECT_DIR$/buildGameBook/game1.js" />
+        <option value="$PROJECT_DIR$/tigris/tut2.js" />
+        <option value="$PROJECT_DIR$/tigris/tut4.js" />
+        <option value="$PROJECT_DIR$/tigris/tut5.js" />
+        <option value="$PROJECT_DIR$/tigris/tut7.js" />
+        <option value="$PROJECT_DIR$/tigris/tut8.js" />
+        <option value="$PROJECT_DIR$/tigris/tut9.js" />
+        <option value="$PROJECT_DIR$/fiz/fiz/w_yShip.js" />
+        <option value="$PROJECT_DIR$/a.js" />
+        <option value="$PROJECT_DIR$/textarea.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="791" />
+    <option name="y" value="238" />
+    <option name="width" value="2076" />
+    <option name="height" value="1079" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers ProjectPane="true" />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_tidy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_tidy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_tidy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_tidy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="_tidy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="front" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/buildGameBook" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/tigris" />
+      <recent name="$PROJECT_DIR$/bap2" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/tilesets" />
+      <recent name="$PROJECT_DIR$/tigris" />
+      <recent name="$PROJECT_DIR$/canvas" />
+      <recent name="$PROJECT_DIR$/web" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f72ef801-3366-46cf-8e97-bf7a94259c5f" name="Default" comment="" />
+      <created>1454139573462</created>
+      <option name="number" value="Default" />
+      <updated>1454139573462</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="791" y="238" width="2076" height="1079" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12506083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.049763035" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10339734" sideWeight="0.51816744" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24936171" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.06334372" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934132" sideWeight="0.48183253" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.049763035" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.10339734" sideWeight="0.51816744" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2646756" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934132" sideWeight="0.48183253" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24936171" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/front/bbColl.js</url>
+          <line>129</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/fiz/collide/contactPt.js</url>
+          <line>286</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="49" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tilesets/girlSS.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tigris/tut4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.925926">
+          <caret line="244" column="0" selection-start-line="128" selection-start-column="0" selection-end-line="244" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tigris/tut5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.851852">
+          <caret line="196" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="196" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tigris/tig1/.idea/.name">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tigris/tig1/.idea/2d.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tigris/tig1/.idea/dir.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tigris/tig1/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tigris/tig1/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tigris/tig1/.idea/tig1.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tigris/tig1/.idea/world.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tigris/tig1/.idea/canvas.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tigris/tig1/.idea/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tigris/tig1/.idea/modules.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tilesets/dog-sprite-sheet.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tigris/tut7.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="139" column="0" selection-start-line="139" selection-start-column="0" selection-end-line="282" selection-end-column="0" />
+          <folding>
+            <element signature="e#142#169#0" expanded="false" />
+            <element signature="e#410#602#0" expanded="false" />
+            <element signature="e#462#494#0" expanded="false" />
+            <element signature="e#502#599#0" expanded="false" />
+            <element signature="e#641#821#0" expanded="false" />
+            <element signature="e#879#1454#0" expanded="false" />
+            <element signature="e#915#1151#0" expanded="false" />
+            <element signature="e#1493#1526#0" expanded="false" />
+            <element signature="e#1518#1523#0" expanded="false" />
+            <element signature="e#1542#1601#0" expanded="false" />
+            <element signature="e#1608#1653#0" expanded="false" />
+            <element signature="e#1671#1799#0" expanded="false" />
+            <element signature="e#1822#3000#0" expanded="false" />
+            <element signature="e#1831#2219#0" expanded="false" />
+            <element signature="e#2472#2997#0" expanded="false" />
+            <element signature="e#2500#2982#0" expanded="false" />
+            <element signature="e#2550#2932#0" expanded="false" />
+            <element signature="e#2597#2927#0" expanded="false" />
+            <element signature="e#2678#2921#0" expanded="false" />
+            <element signature="e#2755#2784#0" expanded="false" />
+            <element signature="e#2827#2855#0" expanded="false" />
+            <element signature="e#2872#2914#0" expanded="false" />
+            <element signature="e#2966#2974#0" expanded="false" />
+            <element signature="e#3044#4606#0" expanded="false" />
+            <element signature="e#3217#3494#0" expanded="false" />
+            <element signature="e#3574#3778#0" expanded="false" />
+            <element signature="e#3683#3775#0" expanded="false" />
+            <element signature="e#3817#3997#0" expanded="false" />
+            <element signature="e#4624#5815#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tigris/tut8.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="119" column="0" selection-start-line="119" selection-start-column="0" selection-end-line="270" selection-end-column="1" />
+          <folding>
+            <element signature="e#391#407#0" expanded="false" />
+            <element signature="e#507#1038#0" expanded="false" />
+            <element signature="e#1060#2367#0" expanded="false" />
+            <element signature="e#2411#3971#0" expanded="false" />
+            <element signature="e#2584#2861#0" expanded="false" />
+            <element signature="e#2941#3145#0" expanded="false" />
+            <element signature="e#3050#3142#0" expanded="false" />
+            <element signature="e#3184#3364#0" expanded="false" />
+            <element signature="e#3989#5231#0" expanded="false" />
+            <element signature="e#5260#5314#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tigris/tut9.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="88" column="0" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding>
+            <element signature="e#378#714#0" expanded="false" />
+            <element signature="e#1308#1539#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/box/bap0/boxApps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/box/bap0/forcesApps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/box/bap0/bxWebsiteEx1.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/box/bap2/link.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/box/bap2/collApps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/box/bap2/edgeApps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/box/bap2/bxMouseApps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/box/bap2/controlApps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/box/bap2/mouseJtApps.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/box/bap2/bxWebsiteEx2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/worldEach.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+          <folding>
+            <element signature="e#158#468#0" expanded="false" />
+            <element signature="e#504#590#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/joints.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="331" column="1" selection-start-line="331" selection-start-column="1" selection-end-line="331" selection-end-column="1" />
+          <folding>
+            <element signature="e#4435#4472#0" expanded="false" />
+            <element signature="e#4506#4543#0" expanded="false" />
+            <element signature="e#4955#4998#0" expanded="false" />
+            <element signature="e#5033#5076#0" expanded="false" />
+            <element signature="e#5738#5817#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/geo/clipperBox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="852" column="1" selection-start-line="852" selection-start-column="1" selection-end-line="852" selection-end-column="1" />
+          <folding>
+            <element signature="e#455#666#0" expanded="false" />
+            <element signature="e#1217#1428#0" expanded="false" />
+            <element signature="e#5257#6323#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/geo/geoFix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="297" column="17" selection-start-line="297" selection-start-column="17" selection-end-line="297" selection-end-column="17" />
+          <folding>
+            <element signature="e#512#874#0" expanded="false" />
+            <element signature="e#907#1078#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/geo/geoTranslate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/geo/geoWorld.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/fiz/addArrBody.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/fiz/addBody.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/fiz/addRandomBodies.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/fiz/addTriangle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/fiz/canvasFitWalls.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="62" column="0" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding>
+            <element signature="e#23#1201#0" expanded="false" />
+            <element signature="e#1298#1361#0" expanded="false" />
+            <element signature="e#1388#1450#0" expanded="false" />
+            <element signature="e#1475#1691#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/fiz/createBody.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/fiz/createBodyIsBul.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/fiz/damping.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/fiz/w_yShip.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-45.333332">
+          <caret line="51" column="12" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/fiz/createEdge.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/fiz/createPols.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="10" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/fiz/createPolys.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="14" selection-start-line="26" selection-start-column="14" selection-end-line="26" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/fiz/gravity.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/fiz/groundBody.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/fiz/iterateBodies.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fiz/fiz/velocity.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="63" column="2" selection-start-line="63" selection-start-column="2" selection-end-line="63" selection-end-column="2" />
+          <folding>
+            <element signature="e#19#179#0" expanded="false" />
+            <element signature="e#218#343#0" expanded="false" />
+            <element signature="e#364#592#0" expanded="false" />
+            <element signature="e#613#818#0" expanded="false" />
+            <element signature="e#857#967#0" expanded="false" />
+            <element signature="e#988#1024#0" expanded="false" />
+            <element signature="e#1045#1082#0" expanded="false" />
+            <element signature="e#1105#1150#0" expanded="false" />
+            <element signature="e#1173#1218#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/a.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="111" column="65" selection-start-line="111" selection-start-column="65" selection-end-line="111" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textarea.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10983982">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

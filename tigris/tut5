@@ -1,0 +1,22 @@
+demos his animated dog sprite
+TILE MAP EDITOR!!!
+never watch until 2:30
+3:20 game loops
+talks about  using timer functions
+for a long time just explains setInterval, resume at 5:20
+start 530
+puts the 'renderMap' function into the loop..
+and changes its speed for a while
+resume at 745
+no wait.. thats his begging add
+resume at 8:20
+///////
+we need to determine the type of data we are going to use
+makes an array to hold the map
+0 = water
+1= land(brick)
+////
+//also start here!!! :)
+11:45 lets stop the randomness. lets draw our actual tileset/map!
+1220 so let's do that!
+1240 we need to create a counter

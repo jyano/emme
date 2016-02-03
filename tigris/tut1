@@ -1,0 +1,5 @@
+//explains NOTHING
+//jut writes an object that holds
+canvas
+context
+create (function that fetches canvas by id and inits the object itself)

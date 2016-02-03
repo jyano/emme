@@ -1,0 +1,13 @@
+canvas id=game
+pastes some previous code and changes it around a bit (HTML = function..)
+///////////////////////////////////////////////
+start no earlier than 555
+
+555 shows the HTML constructor class HTML (but i call it $HTML)
+
+copies over the sprite class from previous video
+"the draw function is specialized specifically for drawing SQUARE tiles" of any size or only 32*32?
+you specify sprites by name
+9:50 shows first (just 1) tile drawn to canvas
+"obviously this is not a process u want to do by hand"
+10:47 you want to make a loop!!

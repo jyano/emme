@@ -1,0 +1,66 @@
+NOTE: TUT3 IS NOT MEANT TO BE RUNNABLE
+how to start creating tilemap world in js
+-
+my game features collision detection, sprite animation, can destroy tiles (with mouse),
+build your own worlds, tile editor (missing right now)
+also, collision degree on two different slopes (45dg, 30dg, etc)
+gravity applied (in both direction)
+camera movement brings you to next screen
+1:23 no climbing yet (cant go down ladder yet)
+posts in tut3 but is really tut2 code //http://jsfiddle.net/dzuwLr8t/43/
+1:36 "thats (ladder time)  when i said time to stop programming, and time to make a tutorial"
+///
+talks about why he didn't use any "gamemakers"
+//////
+336 shows his bike.. has collision with ground only, not horizontally
+4:10 xbox controller can work with js games !!!!!
+5:00 awwwwwwww his car falls
+///////////////////////////////////////////////////////////////
+
+5:20 SOURCE CODE - brief overview chil
+8:00 discuss the timer function in the source
+8:35 keyboard controls
+9:10 collision control function, checks for air, water vs brick
+9:40 rectangle collision algorithm
+11:10 talks about some metods from previous
+11:30  WORLD FUNCTION CONSTRUCTOR
+world draws the map
+12:30 keys again
+///////
+1404  oh noo. back to bike
+////////////////////////////////////
+start here!!!!!!!!!!!!!!!!!!!!!
+1408 'THERE IS ANOTHER PRINCIPLE I WANT TO SHOW YOU. SNAPPING MOUSE TO GRID'
+
+1512 "ITS ACTUALLY PRETTY SIMPLE"
+
+first we need to identify 
+within the grid space,
+ NOT THE MOUSE SPACE,
+  but within the tilespace,
+  where that cell is  which the mouse is pointing to.
+to do that, 
+we need to convert mouse corrds in the screen space..
+first we need to map it to this local box, which is the screen
+..
+15:12 GOES TO SOURCE GOOD 'its actually pretty simple'
+first u define cell w/h, which is 32 * 32
+i'm using jquery mousemove event
+gets offset..
+finds out if map is within the box (LOCAL to this screen..)
+1559 what we need to do is,
+we need to take the x,y we just got from that space
+and divide it by width
+and use M.fl or it
+and that will give u the number of cells within that space
+so we need to multiple to find the final position
+of the snapped cell (by w/h for x,y)
+so that will check if the value is within the space of the screen
+where the game is
+not the browser screen
+draw the tile there 
+using the ..
+ 
+17:25 "this is just ONe way to do this, not only way"
+this is great for tilemapbuilders !!!
+1800 you can create the entire world like this if you have a large enough tileset

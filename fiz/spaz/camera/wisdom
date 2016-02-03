@@ -1,0 +1,48 @@
+zoom show be capped at minScale out and 4 (arbitrary) in
+the scale makese sense because it is a ratio 
+
+	var x = w._zoom * w.hW + w._zoom * ( t.X() - cX) - w.hW
+	
+	var y = w._zoom * w.hH + w._zoom * ( t.Y() - cY) - w.hH   //var y = w.z * (w.hH + t.Y() - cY ) - w.hH
+	
+	w.sX(x) 
+	
+	w.sY(y)
+	
+	
+	
+the more zoomed out you are, the farther right the stage can be slided (because its smaller)
+
+zooming in/out only changes the scale of the stage
+if you zoom in a ton.. 
+
+stage x is dif between guy pos and half the width
+when guy in center of stage, that dif is zero, and so stage x is 0
+
+stage right ~ camera left
+
+by default: camera tracks default trackee, which is static and centered
+if i move it right, stage moves left, (camera moves right)
+
+assuming tracking tries to track to middle, a normal scaled stage wouldn't have any leeway
+to slide because the canvas must always be covered completely by the stage
+//
+ideal stage x = w.tee.X() * w.z - w.hW
+x * w.z - w.hW
+z(x - hW/z)
+//
+calculate stage x,y (uncapped)
+answer: just dif * zoom
+//
+xy -limits(caps)
+-just a max, no min
+answer: world dim * zoom - game dim
+xmax = worldX * zoom - gameX
+//
+zoom
+max zoom
+ zoom in -infinite
+ zoom out - cant show outside of ???
+ -1) find bottleneck dimension
+ 2) get its percentage of game/world
+ and that's the zoom-out max

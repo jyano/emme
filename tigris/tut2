@@ -1,0 +1,41 @@
+
+ my thoughts:
+ filling with pattern is more sophisticated because it lets me draw within vector shapes because
+ the image is drawn by a fill.. just like we normally use to color something in
+ .. but cant drawImage have the same effect via clipping or destination-out/in/whatever?
+ ///////
+ more:
+ the difference between drawImage and pattern filling an image is that
+ pattern filling only draws within the current path, and drawImage ignores the current path
+ (however, they both must obey CLIPPING PATH)
+ ///
+ each sprite is 32x32 pixels
+ 
+ 45: 'we need to initialize Context'
+ talks about how png's are great for sprites with transparancy
+
+ 38: shows final result in canvas (with animation and all!)
+ 
+ he uses a 'sprite' called wall.png
+
+ 315"i'm gonna draw a js object called Spite and give it functions so that we 
+  can load images into it and then it can draw 'sprites' on the actual canvas
+ ////////////////////
+ 
+  start at 3:46 " NOW I'M READY TO START WRTING THE SPITE FUNC!!!" !!!
+  9:15 at this point we have successfully LOADED a sprite
+ 9:17 goes to back to some images of sprites
+  then says there are FOUR  ways to draw a sprite
+  
+ 
+  draw -> normal
+  draw and specify w/h -> stretch
+  
+  special tiled flag -> tiled ?(like html backgrounds)
+  specify x,y, and angle -> rotated
+  after this tut u will be able to implement thse FOUR WAYS using thseTHREE functions
+ 10:50 GOES BACK TO CODE lets add functions that draw. lets go back to code and add functions, starting with 'draw method'
+
+  15:30 before we move on the next function (rt), i wanna explain something
+  blah blah blah..
+  21:17 "AS A FINAL STEP, ILL SHOW U HOW TO USE THE CODE WE JUST WROTE"

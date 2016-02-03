@@ -1,0 +1,19 @@
+enter 13
+up 38
+down 40
+left 37
+right 39
+escape 27
+spacebar 32
+shift 16
+w 87
+s 83
+a 65
+d 68
+z 90
+x 88
+0 48
+1 through 9 49-57
+
+6:26 we want to cheat first by looking at controls.js (his best work regarding keycontrols ever.. oh mah god)
+ 9:55 makes keyboard.js file
