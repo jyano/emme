@@ -89,12 +89,8 @@ function appyUI() {
 		d.K('app').id('app')
 		return d
 	}
-	$nav = function (pageName, rtr) {
-		var nav = $.sp(pageName).K(pageName + '-nav')
-		if (rtr) {
-		}
-		return nav
-	}
+
+
 	$.editDiv = $.eD = function (words) {//$.dE
 		canMove = true
 		changeLocation = true
@@ -779,29 +775,7 @@ function localStore() {
 }
 function superTemplate() {
 
-//QT:  an attempt to make
-// underscore templates, but via qq
-// -does not actually use _.template at all
-	$.tpFn = qT = function (tpFn, ob, el) {
-		return tpFn(ob, $(el || '<div>'))
-	}
-	$.tpFn.thed = sampleTemplate = function (ob, el) {
-		return $(el).A($.tH().A(
-				$.tr().K('header')(
-						$.th().A('Name'),
-						$.th().A('Age'))))
-	}
-	//   use like this: q = $.tpFn( $.tpFn.thed ).A()
-	$.tp.lii = function (ob, el) {//two ways ok!!!!
-//can pass://1) jq/el
-		return $(el).A($.li(ob.me), $.li(ob.me))
-	}
-	$.tp.lii2 = function (ob, el) {
-		//2) or .... array
-		return [$.li().A(ob.me), $.li().A(ob.me)]
-		// use like this: q= $.tpFn( $.tpFn.lii, {me:'jason'} ).A()
-	}
-//  QTexample: resultingChildElOrEls = $.tp($.tp.lii, {me: 'jason'}).A()
+
 }
 function scripts(){
 	$.scr = function (scr, fn) {
@@ -1143,16 +1117,7 @@ function llMaybe() {
 		var dt = new Date()
 		return dt
 	}
-	$Ob = Ob = function (k, v) {
-		var g = G(arguments)
-		if (g.A || g.F || g.N || g.O) {
-			return Ob('da', g.f)
-		}
-		g.f = D(g.f) ? g.f : 'da'
-		var ob = {}
-		ob[g.f] = g.s
-		return ob
-	}
+
 	$.fn.a2Lb = function (t) {
 		t = t || 'label:'
 		return this.a2($.lb(t))
@@ -1168,6 +1133,16 @@ function llMaybe() {
 		$('body').E();
 		return $
 	}
+}
+$Ob = Ob = function (k, v) {
+	var g = G(arguments)
+	if (g.A || g.F || g.N || g.O) {
+		return Ob('da', g.f)
+	}
+	g.f = D(g.f) ? g.f : 'da'
+	var ob = {}
+	ob[g.f] = g.s
+	return ob
 }
 function lLib(){
 	lll = function (q, ob) {

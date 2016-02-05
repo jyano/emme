@@ -1,12 +1,21 @@
 $S = String
 BlogSchema = new $mg.Schema({
 	user: $S,
-	 title: $S,
-	  url: $S
+	title: $S,
+	url: $S
 })
+MessageSchema = new $mg.Schema({
+	chapter: $S,
+	topic: $S,
+	message: $S
+})
+
 $mg.model('blog', BlogSchema)
+
+$mg.model('message', MessageSchema)
 Blog = $mg.model('blog')
-//$l('setting routs..')
+
+Message= $mg.model('message')
 
 blog = new Blog({
 	user:'aaaaa',
@@ -14,7 +23,51 @@ blog = new Blog({
 	url:'uuuuu'
 })
 blog.save()
+$a.get('/api/messages', function (q, p) {
+	Message.find(function (z, docs) {
+		_.e(docs, function (item) {
+			$l('got request for _id: ' + item._id)
+		})
+		p.send(docs)
+	})
+})
+$a.post('/api/messages', function (q, p) {
+	 	var message = new Message(q.body)
+	message.save(function (z, doc) {
+		p.send(doc)
+	})
+})
+$a.delete('/api/message/:id', function (q, p) {
 
+
+	var id = q.params.id
+	var jsOb = {_id: id}
+	Message.remove(jsOb, function (z, d) {
+		p.send(jsOb)
+	})
+})
+$a.put('/api/messages/:id', function (q, p) {
+
+	Message.update({_id: q.params.id}, q.body, function (z, doc) {
+		p.send({_id: q.params.id})
+	})
+})
+$a.delete('/api/messages/:id', function (q, p) {
+
+	var id = q.params.id
+	var jsOb = {_id: id}
+	Message.remove(jsOb, function (z, d) {
+		p.send(jsOb)
+	})
+})
+$a.put('/api/message/:id', function (q, p) {
+
+	Message.update({_id: q.params.id}, q.body,
+		function (z, doc) {
+		p.send({_id: q.params.id})
+	})
+})
+//
 $a.get('/api/blogs', function (q, p) {
 	Blog.find(function (z, docs) {
 		_.e(docs, function (item) {

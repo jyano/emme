@@ -766,7 +766,8 @@ function flex() {
 			return q
 		}
 	}
-	
+	more()
+	media()
 	function media() {
 		phone()
 		tablet()

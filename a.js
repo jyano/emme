@@ -69,7 +69,7 @@ function dirs() {
 	'../_deps', '../_data', '../imgFiles','../_graphics',
 			'easel', 'cjsGrad', 'cjsGrad/_', 'buildGameBook',
 			'front', 'web','canvas',
-			'tigris'
+			'tigris','bone'
 			//, 'box', 'fiz', 'spaz', 'joints', 'controller', 'scroll', 'track', 'protos', 'arcade', 'bap0', 'bap1', 'bap2', 'box/bap1', 'box/bap2', 'fiz/box', 'fiz/spaz', 'fiz/clipperBox', 'fiz/collide', 'fiz/controller', 'fiz/edge', 'fiz/joints', 'fiz/query', 'fiz/arcade', 'fiz/makeWorkd', 'fiz/_'
 	)
 }
@@ -83,9 +83,14 @@ function routes() {
 		front = [
 
 			//front
-			'bb', 'ko', 'jqui',
-			'bone', 'bbServer', 'bbColl',
-			'jquiWids', 'wid',
+			'bb','lm', //layoutmanager
+			'ko', 'jqui',
+			'bone','bbView', 'bbServer', 'bbColl','docs','chaps','abstractDocs','bbRouter','book',
+			'jquiWids', 'wid','bbModel','bbEvents','bbBlog','bbTwit',
+			'layoutManagerPre',
+
+			'layoutManager',
+			'layoutManagerPart2','superTp',
 			'knock', 'koCustom',
 			'wappy', 'cutouts'//, 'muggy', 'home'
 		]
@@ -104,40 +109,44 @@ function routes() {
 			'tut1', 'tut2', 'tut3', 'tut4', 'tut5', 'tut6',
 			'tut7', 'tut8', 'tut9', 'tut10'
 		]
+
+Three = ['three', 'threeCore','threeApp']
+
+		Fiz = [
+			'bx', 'boxBase',
+			'boxBool',
+			'boxMath', 'boxCan', 'fixDefPt', 'bodyPt',
+			'bDefPt', 'boxShape',
+			'worldPrt', 'worldQuery', 'joints',
+			'mouseJt',
+			'debug', 'loop', 'superBox',
+			'boxApps', 'forcesApps', 'worldGravity',
+			'makeWorld',
+			'bxWebsiteEx1',
+			'bxWebsiteEx2',
+			'bxMouseApps', 'collApps','txblog',
+			'mouseJtApps', 'watchKeysApps','textarea','txblg',
+			'fixtPt'
+		]
 		html += $js([[
 		
 		
 			//web
 			'both', 'jq', 'web', 'events', 'css', 'html', 'img',
-			'l', 'webApps', 'mock', 'gpc', 'clipper', 'textarea',
+			'l', 'webApps', 'mock', 'gpc', 'clipper',
 			'canvas', 
 			 'clipApps', 'shapeDefs','canApps',
 			'canBAD','canGOOD', 'canGREAT','cxPt','cxRect',
 			'bmap','colorGrad','globComp','imgDa','background','bgImg','clipping',
 			'borderRadius','spacing','drawingApp','paths','text','font','shad',
 			'transform','game1','game2','game3','game4','game5','game6'
-			],front,easel
+			],front,easel,Fiz,Three
 			  ])
 		
 		html += '<script> $(function(){ $l("app:  ' + app + '"); ' + app + '()})</script>'
 		p.send(html)
 	})
-	Fiz = [
-		'bx', 'boxBase',
-		'boxBool',
-		'boxMath', 'boxCan', 'fixDefPt', 'bodyPt',
-		'bDefPt', 'boxShape',
-		'worldPrt', 'worldQuery', 'joints',
-		'mouseJt',
-		'debug', 'loop', 'superBox',
-		'boxApps', 'forcesApps', 'worldGravity',
-		'makeWorld',
-		'bxWebsiteEx1',
-		'bxWebsiteEx2',
-		'bxMouseApps', 'collApps',
-		'mouseJtApps', 'watchKeysApps',
-		'fixtPt'
-	]
+
 	//html += '<link rel="stylesheet" type="text/css"  href="/theme.css"></script>'
 }
 function node() {

@@ -153,9 +153,9 @@ function mock() {
 		$s($mk.css)
 		return $
 	}
-	$mockPage = function (pageName) {
-		return $.sp(pageName).id(pageName + '-pg').K('pg').fS(50)
-	}
+
+
+
 }
 
 function ipsum() {
@@ -200,6 +200,7 @@ function ipsum() {
 	'consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt' +
 	'ut laoreet dolore magna aliquam erat volutpat.'
 }
+data()
 function data() {
 	_bor = '5px solid red'
 	_bulls = '&bull; &bull; &bull;'

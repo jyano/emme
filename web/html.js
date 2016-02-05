@@ -854,7 +854,7 @@ function inputs() {
 	$.ip = function (n) {
 		var g = G(arguments), o, ip
 		ip = $('<input>').at('type', 'text')
-		return ip
+		return ip.A()
 		if (n) {
 			ip.n(n);
 			ip.id(n)
@@ -880,7 +880,9 @@ function inputs() {
 			ip.K('form-control')
 			ip.A()
 		}
-		return ip
+		$l('ip')
+		return ip.A()
+
 	}
 	$.ipBt = function (btT, f) {
 		return $.d().A($.ip(),

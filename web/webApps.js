@@ -1071,6 +1071,7 @@ function item() {
 		)
 	}
 }
+$ct = function(){return $.dK('ct container')}
 function vid() {
 	vidHtml = function (css) {
 		$s(_.x({
@@ -1203,38 +1204,57 @@ function rulesApps() {
 		l({l: 1, a: 'hello', a2: 1})
 	}
 }
+
+
 function media() {
+
 	MQ1 = LAY = function () {
-		col = {
-			_body: {dir: 'c'},
-			'.c2, .c3': {w: '100%'},
-			_c2: {ord: 0}
-		}
+
 		$s({
 			'header, footer': {P: 20, C: 'gray', c: 'w'},
 			_lay: {
-				h: 400, C: 'y',
-				dp: 'fl', dir: 'c'
+
+				h:'98%',
+				C: 'y',
+				dp: 'fl',
+				'flex-direction': 'column'
 			},
 			_body: {dp: 'fl', gr: 1, C: 'p', dir: 'row'},
-			_c1: {C: '_b', gr: 1},
-			_c2: {C: 'g', w: 160, ord: '-1'},
-			_c3: {C: 'p', w: 160}//, _phone: $subRules({bd: {C: 'z'}, _body:col})
+			_c1: {C: 'u', gr: 1},
+			_c2: {C: 'p', w: 160, ord: '-1'},
+			_c3: {C: 'b', w: 160}//, _phone: $subRules({bd: {C: 'z'}, _body:col})
 		})
+
+
+
 		sty = '@media only screen and (max-width: 500px) ' +
-		$subRules(col)
+			$subRules({
+				_body: {dir: 'c'}, '.c2, .c3': {w: '100%'}, _c2: {ord: 0}
+			})
+
+
 		$.Sty(sty)
-		//$tablet({bd: {C: 'z'}, _body: {dir: 'c'}})
+		//
 		$.dK('lay').A(
-				$.hdr('heead'),
-				$.dK('body').A(
-						$.dK('c1').A('main').C('b'),
-						$.dK('c2').A('nav').C('o'),
-						$.dK('c3').A('sidebar').C('g')
-				),
-				$.ftr('fooot')
+
+			$.hdr('heead'),
+
+			$.dK('body').A(
+				$.dK('c1')
+				,
+				$.dK('c2')
+				,
+				$.dK('c3')
+			)//, $.ftr('fooot')
 		)
+
+
+		//$tablet({bd: {C: 'z'}, _body: {dir: 'c'}})
+
+
 	}
+
+
 	MQ2 = MVD = function () {
 		vidHtml();
 		$tablet(tabRus);

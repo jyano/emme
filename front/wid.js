@@ -583,7 +583,7 @@ CALC = WD1 = function () {
 		},
 		_destroy: function () {
 			var q = this.element
-			q.rK('jy-clc')
+			q.rmK('jy-clc')
 			q.E()
 		},
 		_a2CurDp: function (a) {

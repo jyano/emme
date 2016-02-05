@@ -1094,6 +1094,10 @@ function jQAnim() {
 		})
 	}
 }
-  
+
+$.H=$.html=function(){var bd = $('body')
+	bd.html.apply(bd, arguments)
+	return $
+}
  
 z=function(){$('body').E()} 
