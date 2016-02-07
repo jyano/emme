@@ -1,23 +1,89 @@
-//QT:  an attempt to make
-// underscore templates, but via qq
-// -does not actually use _.template at all
-$.tpFn = qT = function (tpFn, ob, el) {
-    return tpFn(ob, $(el || '<div>'))
+
+$.fn.td = function () {
+    var td = $.td.apply(null, arguments)
+    this.A(td)
+    return td
 }
-$.tpFn.thed = sampleTemplate = function (ob, el) {
-    return $(el).A($.tH().A(
-        $.tr().K('header')(
-            $.th().A('Name'),
-            $.th().A('Age'))))
+$.fn.tds = function () {
+    var g = G(arguments)
+    var q = this
+    _.e(g.A ? g.f : g, function (ch) {
+        q.td(ch)
+    })
+    return q
 }
-//   use like this: q = $.tpFn( $.tpFn.thed ).A()
-$.tp.lii = function (ob, el) {//two ways ok!!!!
-//can pass://1) jq/el
-    return $(el).A($.li(ob.me), $.li(ob.me))
+$.td.kids = function () {
+    var g = G(arguments)
+    var kids = g.A ? g.f : g
+    return _.m(kids, function (o) {
+        var td = $.td()
+        _.e(A(o) ? o : [o], function (ch) {
+            td.A(ch)
+        })
+        return td
+    })
 }
-$.tp.lii2 = function (ob, el) {
-    //2) or .... array
-    return [$.li().A(ob.me), $.li().A(ob.me)]
-    // use like this: q= $.tpFn( $.tpFn.lii, {me:'jason'} ).A()
+
+tdFn = function (fn) {
+    return function (ob) {
+        var kids = fn(ob)
+        return $.td.kids.apply(null, kids)
+    }
 }
-//  QTexample: resultingChildElOrEls = $.tp($.tp.lii, {me: 'jason'}).A()
+
+
+CollView = Bb.V.x({
+    I: function () {
+        var view = this
+        view.model.on('all', function () {
+            _.in(.03, function () {
+                view.R()
+            })
+        })
+
+    },
+    R: function () {
+        var view = this.H('')
+        view.model.each(function (model) {
+            view.A((new view.subView({model: model})).R().el)
+        })
+        return view
+    }
+})
+
+GenView = Bb.V.x({
+
+    G: function (ob) {
+        return $.tr().A(J.s(ob)).C('b', 'y')
+    },
+
+    R: function () {
+        var view = this
+        _.e(view.G(view.tJ()), function (el) {
+            view.A(el)
+        })
+
+        return view
+    }
+})
+GenView.tr = Bb.V.x({
+    tagName: 'tr',
+
+    G: function (ob) {
+        return $.tr().A(J.s(ob)).C('b', 'y')
+    },
+
+    R: function () {
+        var view = this
+        _.e(tdFn((view.row || view.tr || view.G))(view.J()),
+            function (el) {
+                view.A(el)
+            })
+        return view
+    }
+})
+
+
+$.ip.K = function (k) {
+    return $.ip().K(k)
+}

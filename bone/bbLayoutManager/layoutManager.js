@@ -91,7 +91,7 @@ LAYOUT_MANAGER= LOM=function(){
 LOM=function(){$.h1('LayoutManger examples')
 
     $s(lomCss)
-    Backbone.Layout.configure({
+    Bb.Layout.configure({
         // Put options here.
     })
 

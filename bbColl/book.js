@@ -82,8 +82,15 @@ TopicView = Bb.V.x({
     }
 })
 
-Rtr=Bb.R.x({
-    routes: {books:'books', 'book/:title':'viewBook'},
+BookRtr=Bb.R.x({
+    routes: {
+
+
+        books:'books',
+        'book/:title':'viewBook'
+
+    },
+
     books:function(){$l('books')
         $.E('books:', $ClViewEl(CollectionView, Books))
     },
@@ -98,6 +105,6 @@ Rtr=Bb.R.x({
 BOOKS=function(){
     vent.on('book:selected', function(item){rtr.N('book/'+ item.g('title'))})
     Bb.h.start()
-    rtr = new  Rtr()
+    rtr = new   BookRtr()
     rtr.N('books')
 }

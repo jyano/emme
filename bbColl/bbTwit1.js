@@ -61,7 +61,6 @@ TwitsView = Bb.V.x({
     },
     R: function () {
         var vw = this
-        v=vw
         vw.$el.E()
         vw.collection.each(function (md) {
             var twitV = new TwitView({model: md})
@@ -91,9 +90,9 @@ BB1 = TWIT = function () {
 
     new TwitsView({
 
-        collection: twits= new TwitsList()
+        collection: twits = new TwitsList()
 
-    }) .A()
+    }).A()
 
 
     //

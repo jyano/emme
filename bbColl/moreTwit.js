@@ -53,7 +53,8 @@ TWIT0 = function () {
                     $.a('[delete]').K('delete')),
                 $.sp(this.model.get('un')).K('un'),
                 ': ',
-                $.sp(this.model.get('sts')).K('sts'))
+                $.sp(this.model.get('sts')).K('sts')
+            )
             return this
         }
     })

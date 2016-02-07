@@ -69,7 +69,9 @@ function dirs() {
 	'../_deps', '../_data', '../imgFiles','../_graphics',
 			'easel', 'cjsGrad', 'cjsGrad/_', 'buildGameBook',
 			'front', 'web','canvas',
-			'tigris','bone'
+			'tigris',
+		'bbAppView','bbColl','bbView',
+		'bone'
 			//, 'box', 'fiz', 'spaz', 'joints', 'controller', 'scroll', 'track', 'protos', 'arcade', 'bap0', 'bap1', 'bap2', 'box/bap1', 'box/bap2', 'fiz/box', 'fiz/spaz', 'fiz/clipperBox', 'fiz/collide', 'fiz/controller', 'fiz/edge', 'fiz/joints', 'fiz/query', 'fiz/arcade', 'fiz/makeWorkd', 'fiz/_'
 	)
 }
@@ -85,12 +87,13 @@ function routes() {
 			//front
 			'bb','lm', //layoutmanager
 			'ko', 'jqui',
-			'bone','bbView', 'bbServer', 'bbColl','docs','chaps','abstractDocs','bbRouter','book',
+			'bone','bbView','viewAdvanced', 'bbServer', 'bbColl','docs','chaps','abstractDocs','bbRouter','book',
 			'jquiWids', 'wid','bbModel','bbEvents','bbBlog','bbTwit',
 			'layoutManagerPre',
 
 			'layoutManager',
-			'layoutManagerPart2','superTp',
+			'layoutManagerPart2','superTp','AppView','zombies',
+
 			'knock', 'koCustom',
 			'wappy', 'cutouts'//, 'muggy', 'home'
 		]

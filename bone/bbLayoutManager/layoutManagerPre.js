@@ -27,7 +27,7 @@ lomCss={
 templateMain = function(o){return [
     $.dK('list').A('list will go here..'),
     $.dK('detail').A('twot will go here..')
-//....
+
 ]}
 
 templateList = function(o){
@@ -46,13 +46,10 @@ templateDetail = function(o){return [
     $.h1(o.text), $.h3(o['from_user'])
 ]}
 
-TWOOT=function(){
-
-    $.get('https://twitter.com/search?q=trump', function(res){r=res})
-}
 
 twoots = {
     results: [
-        'hello', 'helasfdfdsalo', 'helzzlo', 'hellafsdo', 'rrrhello', 'bbhello', 'ccchello'
+        'hello', 'helasfdfdsalo', 'helzzlo',
+        'hellafsdo', 'rrrhello', 'bbhello', 'ccchello'
     ]
 }

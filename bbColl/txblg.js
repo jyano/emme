@@ -165,18 +165,7 @@ TXBLG = function () {$s({$: {M: 20}, bd: {dp: 'fl'}, d: {C: 'r', c: 'b'}})
     messagesCollection.fetch()
     
 }
-DETAILVIEW=function(){
 
-    $.ip().K('ip')
-    $.bt('enter chapter', enterChapter)
-
-    function enterChapter(){
-
-        chapter = $('.ip').val()
-        $l('chapter: ' + chapter)
-
-    }
-}
 
 
 
@@ -262,7 +251,7 @@ MSGRTR=MESSAGEROUTER=function(){
     router.navigate('contents', {trigger:true})
 }
 
-DOCS1=function(){
+DOCS=function(){
     eventAggregator = _.x({}, Bb.E)
     eventAggregator.on('document:selected', function(doc){
         $l('document:selected -> ' + doc.get('title'))

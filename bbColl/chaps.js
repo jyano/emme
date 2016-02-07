@@ -1,7 +1,12 @@
 
 ChapterListView=ListView = Bb.li({
-    events:{click:function(){
-        vent.trigger('chapter:selected', this.model)}},
+    events:{
+        click:function(){
+
+            vent.trigger('chapter:selected', this.model)
+        }
+    },
+
     R:function(){return this.html( this.get('title'))}
 })
 

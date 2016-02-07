@@ -4,6 +4,7 @@ BlogSchema = new $mg.Schema({
 	title: $S,
 	url: $S
 })
+
 MessageSchema = new $mg.Schema({
 	chapter: $S,
 	topic: $S,
@@ -123,28 +124,21 @@ Twit=$mg.model('Twit',{un: $S, sts: $S})
 ///to get work on client:
 //1) url proprty on coll
 
-$a.get('/twits', function (q, p) {
+$a.get('/twits', function (q, p) {$l('get twits')
 ///to get work on client:
 //2) coll.fetch (during init)
 	
 	
-	$l('getting...')
-	Twit.find(function (er, docs) {
-		_.e(docs, function (item) {
-			$l('got request for _id: ' + item._id)
-		})
+		Twit.find(function (er, docs) {
+		_.e(docs, function (item) {	$l('got request for _id: ' + item._id)	})
 		
-		if (er) {return p.status(500).send({
-			status: 'Failed to find twits!'
-		})}
+		if (er) {return p.status(500).send({status: 'Failed to find twits!'	})}
 		
 		p.send(docs)
 	})
 })
 
 $a.post('/twits', function(q, p) {
- 	$l('post..................')
- 
 
 ///to get work on client:
 //2) model.save
@@ -160,20 +154,27 @@ $a.post('/twits', function(q, p) {
 })
 
 $a.delete('/twits/:id', function (q, p) {
-	$l('deliting...................')
 	var id = q.params.id
 	
 	Twit.remove({_id: id}, function (z, d) {
-		$l('removing..')
+
 		p.send({_id: id})
 	})
 	
 })
 
 $a.put('/twits/:id', function (q, p) {
- 	$l('upd...................')
+
 	Twit.update({_id: q.params.id}, q.body, function (z, doc) {
 		p.send({_id: q.params.id})
+	})
+})
+$a.get('/twits/:id', function (q, p) {
+///to get work on client:
+//2) coll.fetch (during init)
+$l('twits/id')
+	Twit.findById(q.params.id,function (er, item ) {
+	 	p.send(item)
 	})
 })
 
